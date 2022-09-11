@@ -1,0 +1,49 @@
+.column-tracking#tracking{
+  width: 30px;
+}
+
+.order-status.status-shipping{
+  background-color: #e1c6dd;
+  color: #841b76;
+}
+
+/* Meta-box Premi */
+.postbox#mirai_vdp_premi label{
+    display: block;
+}
+.postbox#mirai_vdp_premi label span{
+    display: inline-block;
+    width: 120px;
+}
+.postbox#mirai_vdp_premi input[type="text"]{
+    width: calc(90% - 122px);
+}
+
+/* Meta-box Redirection */
+.postbox#mirai_vdp_redirection label{
+    display: block;
+}
+.postbox#mirai_vdp_redirection label span{
+    display: inline-block;
+    width: 120px;
+}
+.postbox#mirai_vdp_redirection input[type="text"]{
+    width: calc(90% - 122px);
+}
+
+
+/* Bundles settings */
+#shipping_product_data .bundle_type,
+#bundled_product_data .quantity_max,
+#bundled_product_data .quantity_min,
+#bundled_product_data .shipped_individually,
+#bundled_product_data .optional
+{
+    display: none !important;
+}
+
+
+/* Wider quickedit labels */
+.inline-edit-row fieldset label span.title{
+    width: 12em;
+}

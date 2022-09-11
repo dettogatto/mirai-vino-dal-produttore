@@ -1,0 +1,1204 @@
+Product ID,Name,Supplier ID,Supplier Name,Manufacturer ID,Maufacturer Name,Active
+62,"Naima Wilburger Aglianico 2004 Magnum 1,5 L",6,De Conciliis,9,De Conciliis,1
+70,Cabernet Merlot 2012,8,Glassierhof,12,Glassierhof,1
+92,Merlot Colli Euganei DOC 1998,10,La Montecchia,10,La Montecchia,1
+116,Equinotium Cabernet Sauvignon Riserva 2012,14,Mattia Filippi,20,Mattia Filippi,1
+427,Canaiolo IGT Toscana Rosso  2009,37,Bibi Graetz,37,Bibi Graetz,1
+653,"Naima Wilburger Aglianico 2005 Magnum 1,5 L",6,De Conciliis,9,De Conciliis,1
+663,Underthesky Rosso 2012,14,Mattia Filippi,20,Mattia Filippi,1
+739,Dueluglio Vermentino 2014,55,La Corsa,54,La Corsa,1
+801,Nerobufaleffj Sicilia IGT  Rosso 2009,41,Gulfi,42,Gulfi,1
+812,Oltre il Classico Rosè Riserva 2008,56,Cà  di Frara,55,Ca di Frara,1
+926,Pinot Bianco 2014,8,Glassierhof,12,Glassierhof,1
+959,L'Italia in 16 vini,61,Vinodalproduttore,60,,1
+960,INCIPIT 3 mesi,61,Vinodalproduttore,61,Vinodalproduttore,1
+961,SINE QUA NON 3 mesi,61,Vinodalproduttore,61,Vinodalproduttore,1
+962,"AMANTES, AMENTES 3 mesi",61,Vinodalproduttore,61,Vinodalproduttore,1
+966,INCIPIT 6 mesi,61,Vinodalproduttore,61,Vinodalproduttore,1
+967,INCIPIT 12 mesi,61,Vinodalproduttore,61,Vinodalproduttore,1
+968,SINE QUA NON 6 mesi,61,Vinodalproduttore,61,Vinodalproduttore,1
+969,SINE QUA NON 12 mesi,61,Vinodalproduttore,61,Vinodalproduttore,1
+970,"AMANTES, AMENTES 6 mesi",61,Vinodalproduttore,61,Vinodalproduttore,1
+971,"AMANTES, AMENTES 12 mesi",61,Vinodalproduttore,61,Vinodalproduttore,1
+984,Macchiatonda Rosè 2014,55,La Corsa,54,La Corsa,1
+1032,Naima Wilburger Aglianico 2006,6,De Conciliis,9,De Conciliis,1
+1051,Chianti Rà¹fina DOCG 2013,46,Travignoli,45,Travignoli,1
+1164,Aghiloro 2012,55,La Corsa,54,La Corsa,1
+1345,Rosè 2015,24,Villa Giada,25,Villa Giada,1
+1443,Il Frater Riserva 2011 DOP,56,Cà  di Frara,55,Ca di Frara,1
+1533,Rosato IGT di Basilicata Frà  2015,0,,34,Grifalco,1
+1549,Champagne Audace Brut,69,I-DIKA SPA,67,La Chapelle,1
+1550,Champagne Instinct Brut,69,I-DIKA SPA,67,La Chapelle,1
+1551,Champagne Privilege Brut Premiere Cru,69,I-DIKA SPA,67,La Chapelle,1
+1552,Champagne Millèsime Brut 2008,69,I-DIKA SPA,67,La Chapelle,1
+1553,Champagne Nuance Brut Rosè,69,I-DIKA SPA,67,La Chapelle,1
+1554,Champagne Extra Brut,69,I-DIKA SPA,68,Domaine Jose Michel,1
+1555,Champagne Rosè,69,I-DIKA SPA,68,Domaine Jose Michel,1
+1556,Champagne Brut Vintage 2007,69,I-DIKA SPA,68,Domaine Jose Michel,1
+1557,Champagne Special Club 2007,69,I-DIKA SPA,68,Domaine Jose Michel,1
+1558,Champagne Blanc de blancs 2007,69,I-DIKA SPA,68,Domaine Jose Michel,1
+1580,"Don Antonio Nero D'Avola IGT, VERTICAL COLLECTION 98- 99- 00- 01- 04- 05 ",59,Morgante,58,Morgante,1
+1794,"Tre Ponti 2013 Magnum 1,5 L",24,Villa Giada,25,Villa Giada,1
+2077,BRUT DE MILLE Metodo Champenois,69,I-DIKA SPA,76,Chateau de Mille,1
+2081,Perella Fiano Bianco 2013,6,De Conciliis,9,De Conciliis,1
+2082,Selim Spumante Brut,6,De Conciliis,9,De Conciliis,1
+2101,Bacioilcielo Rosso 2016,6,De Conciliis,9,De Conciliis,1
+2102,Bacioilcielo Bianco 2016,6,De Conciliis,9,De Conciliis,1
+2103,"Selim Spumante Brut Magnum 1,5 L",6,De Conciliis,9,De Conciliis,1
+2105,Naima Aglianico 2009,6,De Conciliis,9,De Conciliis,1
+2106,"Naima Aglianico 2009 Magnum 1,5 L",6,De Conciliis,9,De Conciliis,1
+2142,Tre Ponti 2013,24,Villa Giada,25,Villa Giada,1
+2173,Barolo Bussia DOCG 2011,27,Deltetto,26,Deltetto,1
+2200,Donnaluna Aglianico Magnum 2015,6,De Conciliis,9,De Conciliis,1
+2201,Naima Wilburger Aglianico 2005,6,De Conciliis,9,De Conciliis,1
+2202,"Naima Wilburger Aglianico 2006 Magnum 1,5 L",6,De Conciliis,9,De Conciliis,1
+2446,SER LAPO RISERVA PRIVATA Chianti Classico Riserva DOCG 2013,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2461,PHILIP Toscana IGT 2014,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2462,PHILIP Toscana IGT 2014 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2463,PHILIP Toscana IGT 2014 Doppia Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2464,"PHILIP Toscana IGT 2014 Magnum 6,0 L",47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2467,Concerto Toscana IGT 2015,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2468,Concerto Toscana IGT 2015 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+2478,Effe Emme Terre Siciliane IGT 2014,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+2480,Effe Emme Terre Siciliane IGT 2014 Magnum,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+2481,Doppiozeta Noto Rosso DOC 2014,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+2482,Doppiozeta Noto Rosso DOC 2014 Magnum,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+2483,Doppiozeta Noto Rosso DOC 2014 Doppia Magnum,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+2494,Barolo Bussia DOCG 2012,27,Deltetto,26,Deltetto,1
+2495,Barolo Bussia DOCG 2012 Magnum,27,Deltetto,26,Deltetto,1
+2535,"Vini d'Italia, 3 MESI",0,,61,Vinodalproduttore,1
+2536,"Vini d'Italia, 6 MESI",0,,61,Vinodalproduttore,1
+2557,Prosecco DOC Extra Dry Magum astuccio,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+2558,"Vini d'Italia, 3 MESI 3 bottiglie",0,,61,Vinodalproduttore,1
+2599,"Parüss Dolce Uve Nebbiolo Stramature 2011 0,375l",17,Parusso,6,Parusso,1
+2864,Tre Ponti 2013 Magnum 3 L cassa legno,24,Villa Giada,25,Villa Giada,1
+2865,Tre Ponti 2013 Magnum 5L cassa legno,24,Villa Giada,25,Villa Giada,1
+2935,Merlot Baladello IGT Sebino 2013,48,Ferghettina,47,Ferghettina,1
+2953,Morgante 2017 Nero d'Avola DOC Sicilia - Morgante,59,Morgante,58,Morgante,1
+2991,BRUTROSSO Lambrusco di Sorbara DOC Spumante Brut Metodo Classico 2016,51,Cantina della Volta,50,Cantina della Volta,1
+3016,Porta Monticano Millesimato 2017,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3027,Prosecco Sup. Viti di San Mor Pas Dosè DOCG 2015 ,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3028,Prosecco DOC  Brut Millesimato 2017,47,Castello di Fonterutoli,81,Castello di Fonterutoli,1
+3029,Prosecco DOC  Brut Millesimato Magnum 2016,47,Castello di Fonterutoli,81,Castello di Fonterutoli,1
+3030,Prosecco DOC  Extra Dry,47,Castello di Fonterutoli,81,Castello di Fonterutoli,1
+3031,Azisa Bianco Sicilia DOC 2017,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3032,"Azisa Bianco Sicilia DOC 2017 Magnum 1,5L",47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3033,Castello di Fonterutoli Sicilia Noto Rosso DOC 2016,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3034,"Fonterutoli Sicilia Noto Rosso DOC 2016 Magnum 1,5L",47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3035,"Fonterutoli Sicilia Noto Rosso DOC Doppia Magnum 3,0L 2016",47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3036,Effe Emme Terre Siciliane IGT 2014 Doppia Magnum,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3037,SIEPI Toscana IGT 2016 Magnum 12L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3038,SIEPI Toscana IGT 2016 Magnum 18L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3039,SIEPI Toscana IGT 2016,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3040,SIEPI Toscana IGT 2016 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3041,"SIEPI Toscana IGT 2016 Doppia Magnum 3,0l",47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3042,"SIEPI Toscana IGT 2016 Magnum 6,0L",47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3043,Concerto Toscana IGT 2015 Doppia Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3044,Concerto Toscana IGT 2015 6L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3045,Concerto Toscana IGT 2015 12L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3046,Concerto Toscana IGT 2015 18L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3047,Castello Fonterutoli Chianti Classico DOCG 2015,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3048,Castello Fonterutoli Chianti Classico DOCG 2015 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3049,Castello Fonterutoli Chianti Classico DOCG 2015 Doppia Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3050,Castello Fonterutoli Chianti Classico DOCG 2015 Magnum 6L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3051,Castello di Fonterutoli Chianti Classico DOCG 2016 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3053,Castello di Fonterutoli Chianti Classico DOCG 2016 Doppia Magnum 3L,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3054,MIX36 Toscana IGT 2015,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3055,MIX36 Toscana IGT 2015 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3067,POGGIO BADIOLA Toscana IGT 2016,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3068,POGGIO BADIOLA Toscana IGT 2016 Magnum,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+3090,Achilles Terre siciliane IGT 2015,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3091,Achilles Terre siciliane IGT 2015 Magnum,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3092,Achilles Terre siciliane IGT 2015  Doppia Magnum 3L,47,Castello di Fonterutoli,71,Castello di Fonterutoli,1
+3105,Don Antonio Nero D'Avola DOC 1998,59,Morgante,58,Morgante,1
+3106,Don Antonio Nero D'Avola DOC 1999,59,Morgante,58,Morgante,1
+3107,Don Antonio Nero D'Avola DOC 2000,59,Morgante,58,Morgante,1
+3108,Don Antonio Nero D'Avola DOC 2001,59,Morgante,58,Morgante,1
+3109,Don Antonio Nero D'Avola DOC 2004,59,Morgante,58,Morgante,1
+3110,Don Antonio Nero D'Avola DOC 2005,59,Morgante,58,Morgante,1
+3146,Quattro Spine 2015,40,Tenuta San Francesco,40,Tenuta San Francesco,1
+3149,Tramonti Bianco 2017,40,Tenuta San Francesco,40,Tenuta San Francesco,1
+3185,Sogni e Follia - Rosso di Montalcino DOC 2015,86,Podere Le Ripi,86,Podere Le Ripi,1
+3202,Sogni e Follia - Rosso di Montalcino DOC 2015 magnum ,0,,86,Podere Le Ripi,1
+3220,Spumante Millesimato 2014 Magnum,27,Deltetto,26,Deltetto,1
+3222,Barolo Bussia DOCG 2010,27,Deltetto,26,Deltetto,1
+3228,Sogni e Follia - Rosso di Montalcino DOC 2015 Doppia magnum  3L,86,Podere Le Ripi,86,Podere Le Ripi,1
+3229,Sogni e Follia - Rosso di Montalcino DOC 2015 Magnum 5L,86,Podere Le Ripi,86,Podere Le Ripi,1
+3230,"Cielo d'Ulisse Brunello di Montalcino 2013 Magnum 1,5L",86,Podere Le Ripi,86,Podere Le Ripi,1
+3260,Hermes Passito 2017 - IGT Isola dei Nuraghi - Tenute Soletta ,22,Tenute Soletta,4,Tenute Soletta,1
+3279,Lacrima di Morro d'Alba 2016 - Doc Superiore - Pellegrini Vini,89,Cantina Pellegrini,89,Pellegrini Vini,1
+3281,Verdicchio dei Castelli di Jesi 2017- Doc - Pellegrini Vini,89,Cantina Pellegrini,89,Pellegrini Vini,1
+3303,Brunello di Montalcino DOCG Montosoli 2014,58,Altesino,57,Altesino,1
+3305,Brunello di Montalcino DOCG 2014 Magnum,58,Altesino,57,Altesino,1
+3306,Brunello di Montalcino DOCG Montosoli 2014 Magnum,58,Altesino,57,Altesino,1
+3307,Brunello di Montalcino DOCG Riserva 2013,58,Altesino,57,Altesino,1
+3308,Rosso di Toscana IGT Doppia Magnum 2016,58,Altesino,57,Altesino,1
+3309,Alte d'Altesi IGT Toscana 2016,58,Altesino,57,Altesino,1
+3310,Palazzo Altesi IGT Toscana 2016,58,Altesino,57,Altesino,1
+3311,"Donna Daria Fior d'Arancio Passito 2016 Mezza Bottiglia 0,375 L",10,La Montecchia,10,La Montecchia,1
+3318,Pinot Bianco Colli Euganei DOC 2018,10,La Montecchia,10,La Montecchia,1
+3320,Merlot Colli Euganei DOC 2016,10,La Montecchia,10,La Montecchia,1
+3358,Bianco Toscana IGT 2018 - Altesino,58,Altesino,57,Altesino,1
+3361,Rosso di Toscana IGT 2017 Magnum 3L - Altesino,58,Altesino,57,Altesino,1
+3362,Aiòn 2017- Rosso Conero doc - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+3363,Conero Riserva docg Bio 2015 - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+3369,Vis Vitae 2016,7,Giardini Ripadiversilia,16,Giardini Ripadiversilia,1
+3370,Colli e Mare 2017,7,Giardini Ripadiversilia,16,Giardini Ripadiversilia,1
+3379,Brut rosè 2017- Spumante - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+3493,"Parüss Dolce Uve Nebbiolo Stramature 2012 0,375l",17,Parusso,6,Parusso,1
+3502,Barolo Etichetta Bianca DOCG 2015 Magnum 3 L,17,Parusso,6,Parusso,1
+3513,Rainoldi Essenziale ,57,Rainoldi,56,Rainoldi ,1
+3514,Rainoldi Ampio ,57,Rainoldi,56,Rainoldi ,1
+3515,Rainoldi Completo ,57,Rainoldi,56,Rainoldi ,1
+3574,Poggio Bestiale 2014 - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3575,Sinarra 2015 - Sangiovese della Maremma Toscana Doc Bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3577,Illario 2019 - Rosato della Maremma Toscana Doc Bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3579,Altizi 2015 - Cabernet Franc della Maremma Toscana Doc - Fattoria di Magliano ,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3580,Brissaia 2018 - Ansonica della Maremma Toscana Doc Bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3585,Heba 2016 Magnum -  Morellino di Scansano docg bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3586,Malvasia delle Lipari 2016 - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+3587,Heba 2016 Magnum 3L -  Morellino di Scansano docg bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3588,Sinarra 2015 Magnum - Sangiovese della Maremma Toscana Doc Bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3589,Perenzo 2015 Magnum - Syrah Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3590,Perenzo 2015 Magnum 3L - Syrah Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3591,Poggio Bestiale 2014 Magnum - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3592,Poggio Bestiale 2014 Magnum 3L - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3593,Poggio Bestiale 2014 Magnum 5L - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3594,Poggio Bestiale 2014 Magnum 9L - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3595,Poggio Bestiale 2014 Magnum 12L - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+3596,Franciacorta Brut DOCG - Ferghettina,48,Ferghettina,47,Ferghettina,1
+3597,Horus 2018 - Carignano del Sulcis Rosato Doc- Cantine Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3598,Is Solus 2017 - Carignano del Sulcis Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3600,Is Solus 2017 magnum - Carignano del Sulcis Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3602,"Is Arenas 2015 Magnum 1,5L - Carignano del Sulcis Riserva Doc - Sardus Pater",20,Sardus Pater,3,Sardus Pater,1
+3603,Is Arenas 2015 Magnum 3L - Carignano del Sulcis Riserva Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3605,Arruga 2014 - Carignano del Sulcis Superiore Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+3606,"Arruga 2014 Magnum 1,5L - Carignano del Sulcis Superiore Doc - Sardus Pater ",20,Sardus Pater,3,Sardus Pater,1
+3607,Arruga 2014 Magnum 3L - Carignano del Sulcis Superiore Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+3608,Arruga 2014 Magnum 6L - Carignano del Sulcis Superiore Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+3609,Arruga 2014 Magnum 12L - Carignano del Sulcis Superiore Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+3610,Terre Fenicie 2018 - Vermentino di Sardegna Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+3611,Foras 2016 - Cannonau di Sardegna Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3613,Nur 2016 - Carignano del Sulcis Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3614,Lugore 2018 - Vermentino di Sardegna Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3615,Kanai 2016 - Carignano del Sulcis Riserva Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+3618,AD 49 Millesimato Brut 2014 - Vermentino di Sardegna Spumante Metodo Classico Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3619,AD 49 Millesimato Brut 2014 Magnum - Vermentino di Sardegna Spumante M.C Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3620,Amentos di Moscato 2014 0.375 L - Moscato di Cagliari Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3621,Amentos di Nasco 2011 0.375L - Nasco di Cagliari DOC - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3622,Amentos di Carignano 2016 0.375 L - Carignano del Sulcis Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+3627,Milledì 2015 - Franciacorta Brut Docg millesimato - Ferghettina,48,Ferghettina,47,Ferghettina,1
+3628,Terramare Fiano 2018 - IGT Salento Bianco - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3629,Diplomatiko Bianco 2018 - Cirò Bianco Doc - Antichi Vigneti Fratelli Sculco,93,Antichi Vigneti F.lli Sculco,111, Antichi Vigneti Fratelli Sculco,1
+3631,Diplomatiko Rosso 2017 - Cirò Rosso Doc - Antichi Vigneti Fratelli Sculco,93,Antichi Vigneti F.lli Sculco,111, Antichi Vigneti Fratelli Sculco,1
+3632,Diplomatiko Rosato 2018 - Cirò Rosato Doc - Antichi Vigneti Fratelli Sculco,93,Antichi Vigneti F.lli Sculco,111, Antichi Vigneti Fratelli Sculco,1
+3633,Cirò Rosso Riserva 2016 - Cirò Classico Superiore Riserva Doc - Antichi Vigneti Fratelli Sculco,93,Antichi Vigneti F.lli Sculco,111, Antichi Vigneti Fratelli Sculco,1
+3634,Oliva Riesling 2017 - Oltrepò Pavese Riserva DOP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3635,La Casetta Bianca 2018 - Oltrepò Pavese Bianco DOP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3636,La Casetta Rossa 2017 - Bonarda dell'Oltrepò Pavese DOP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3642,Peumoussant Bianco 2018 - Pinot Nero Igp - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3643,Peumoussant Rosa 2018 - Provincia di Pavia Pinot Nero IGP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3644,Il Frater Riserva 2015 - Oltrepò Pavese Rosso Riserva DOP - Ca di Frara ,56,Cà  di Frara,55,Ca di Frara,1
+3645,Pinot Grigio Selezione dei 20 anni 2018 - Oltrepò Pavese DOP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3646,Pinot Nero 2018 - Oltrepò Pavese  DOP - Ca di Frara ,56,Cà  di Frara,55,Ca di Frara,1
+3647,Pinot Nero Rosè 2018 - Oltrepò Pavese DOP - Ca di Frara ,56,Cà  di Frara,55,Ca di Frara,1
+3648,Oltre il Classico - VSQ Extra Brut - Ca di Frara ,56,Cà  di Frara,55,Ca di Frara,1
+3649,Monpezzato Bonarda 2018 - Oltrepò Pavese frizzante DOP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3650,Oltre il Classico  Rosè - VSQ Extra Brut Pinot Nero - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3651,Oltre il Classico Nature - VSQ Pinot Nero - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3652,Riesling Superiore 2017 - Oltrepò Pavese DOP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3653,Pinot Grigio 2015 - Oltrepò Pavese DOP - Ca' di  Frara,56,Cà  di Frara,55,Ca di Frara,1
+3654,Io Rosso Riserva  2016 - Provincia di Pavia IGP - Ca di Frara,56,Cà  di Frara,55,Ca di Frara,1
+3657,Zoe Brut 2013 - Spumante Metodo Classico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+3658,Zio Nunà¹ 2015 - IGP Calabria - Tenute Pacelli ,94,Tenute Pacelli,112,Tenute Pacelli,1
+3660,Tèmeso 2015 - Calabria IGP Biologico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+3661,Terra Rossa 2017 - Calabria IGP Biologico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+3662,Tèmeso 2012 - Calabria IGP Biologico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+3664,Eos Passito 2013 - Esaro IGP Vino Biologico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+3667,Vinarancio 2019 - Bianco da uve macerate Bio - Ghio Vini,95,Ghio Vini,113,Ghio Vini,1
+3670,Arciprete 2015 - Ovada DOCG Riserva Vigna - Ghio Vini,95,Ghio Vini,113,Ghio Vini,1
+3672,La Cascina 2015 - Monferrato Rosso DOC - Ghio Vini,95,Ghio Vini,113,Ghio Vini,1
+3674,La Canna e l'Orzo - VSQ Metodo Classico Rosè - Ghio Vini,95,Ghio Vini,113,Ghio Vini,1
+3675,"Drà¡c Passito 0,375 l - Vino Bianco da uve passe - Ghio Vini",95,Ghio Vini,113,Ghio Vini,1
+3677,Sur Lie Rizolo - Vino bianco frizzante - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3678,Refosso Brut  2018 -  Conegliano Valdobbiadene Prosecco Sup. DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3679,Porta Monticano Millesimato 2018 - Vino Spumante Brut - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3680,Molìn Extra Dry 2018 - Conegliano Valdobbiadene Prosecco Superiore DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3682,Porta Monticano DOC Extra Dry - Prosecco DOC Treviso - Zardetto  ,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3684,Fòndego Dry 2018 - Conegliano Valdobbiadene Prosecco Superiore DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3685,Porta Monticano Brut DOC - Prosecco DOC Treviso - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3686,Cavalièr Brut Bio - Conegliano Valdobbiadene  Prosecco Superiore DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3687,Porta Monticano Rosè - Vino Spumante Rosato - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3688,Tre Venti 2017 - Conegliano Valdobbiadene Prosecco Superiore Rive di Ogliano DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3689,Porta Monticano Verdiso - Verdiso IGT Colli Trevigiani - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3690,Cartizze 2018 - Valdobbiadene Prosecco Superiore di Cartizze DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3691,"Porta Monticano -Prosecco DOC  Brut Magnum 1,5L - Prosecco DOC Treviso - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3694,Le Viti di San Mor 2016 - Conigliano Valdobbiadene Prosecco Superiore DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3696,Essentija 2015 - Isola dei Nuraghi IGT - Pala,16,Pala,13,Pala,1
+3698,Stellato 2018 - Vermentino di Sardegna DOC - Pala,16,Pala,13,Pala,1
+3699,La Base 2016 - Chardonnay Emilia IGT - Cantina della  Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3700,Fermo 2015 - Pinot Nero Emila IGT - Cantina della volta,51,Cantina della Volta,50,Cantina della Volta,1
+3701,Il Mattaglio Dosaggio Zero - Metodo Classico - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3702,"Il Mattaglio Dosaggio Zero Magnum 1,5 L -  Metodo Classico - Cantina della Volta",51,Cantina della Volta,50,Cantina della Volta,1
+3703," Il Mattaglio Brut Magnum 1,5 L - Metodo Classico- Cantina della Volta",51,Cantina della Volta,50,Cantina della Volta,1
+3706,Il Mattaglio Brut - Metodo Classico - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3707,Il Mattaglio Rosè - Metodo Classico - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3708, Il Mattaglio Brut Magnum 3L - Metodo Classico - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3709,Il Mattaglio Brut  Magnum 6L - Metodo Classico - Cantina Della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3712,Il Mattaglio Blanc de Blancs Riserva 2013 - Metodo Classico Brut - Cantina Della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3713,"Il Mattaglio Blanc de Blancs Riserva 2013 Magnum 1,5L - Metodo Classico Brut - Cantina Della Volta",51,Cantina della Volta,50,Cantina della Volta,1
+3714,Rimosso 2017 - Lambrusco di Sorbara DOC - Cantina della Volta ,51,Cantina della Volta,50,Cantina della Volta,1
+3715,Trentasei 2013 - Lambrusco di Modena Spumante Brut Metodo Classico DOC - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+3716,"Trentasei 2013 Magnum 1,5L -  Lambrusco di Modena Spumante DOC Brut Metodo Classico - Cantina della Volta",51,Cantina della Volta,50,Cantina della Volta,1
+3719,"Spumante Millesimato Christian Bellei 2013 Magnum 1,5L - VSQ Brut Metodo Classico - Cantina della Volta",51,Cantina della Volta,50,Cantina della Volta,1
+3724,Rivarossa 2016 - IGT Rosso Venezia Giulia - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3725,Blanc des Rosis 2017 - IGT Bianco Venezia Giulia -  Mario Schiopetto ,13,Mario Schiopetto,19,Mario Schiopetto,1
+3726,"Rivarossa 2016 Magnum 1,5L - IGT Rosso Venezia Giulia - Mario Schiopetto ",13,Mario Schiopetto,19,Mario Schiopetto,1
+3728,Rivarossa 2016 Magnum 3L - IGT Rosso Venezia Giulia - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3729,"Friulano 2017 Magnum 1,5 L - Collio DOC - Mario Schiopetto ",13,Mario Schiopetto,19,Mario Schiopetto,1
+3730,"Rivarossa 2015 Magnum 1,5 L - IGT Venezia Rosso - Mario Schiopetto",13,Mario Schiopetto,19,Mario Schiopetto,1
+3731,"Friulano 2016 Magnum 1,5 L - Collio DOC - Mario Schiopetto",13,Mario Schiopetto,19,Mario Schiopetto,1
+3733,Malvasia 2017 - Collio DOC - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3734,Sauvignon 2017 - Collio DOC - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3735,Merlot 2013 - IGT  Venezia Giulia - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3736,Pinot Grigio 2017 -Collio DOC - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3737,Pinot Bianco 2017 -  Collio DOC - Mario Schiopetto ,13,Mario Schiopetto,19,Mario Schiopetto,1
+3738,Pinot Grigio 2017 - IGT Venezia Giulia - Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3739,"Friulano M 2016 Magnum 1,5 L - Collio DOC - Mario Schiopetto",13,Mario Schiopetto,19,Mario Schiopetto,1
+3740,Blumeri 2016 - IGT Rosso Venezia Giulia - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3741,"Blumeri 2016 Magnum 1,5L - IGT Rosso Venezia Giulia - Mario Schiopetto",13,Mario Schiopetto,19,Mario Schiopetto,1
+3742,Blumeri 2016 Magnum 3L - IGT Rosso Venezia Giulia - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3743, Friulano M 2016 - Collio DOC - Mario Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+3744,"Blumeri 2015 Magnum 1,5L - IGT Rosso Venezia Giulia - Mario Schiopetto",13,Mario Schiopetto,19,Mario Schiopetto,1
+3745,Rosato 2018 -  Marche Rosato IGP - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3746,Misco Riserva 2016 - Castelli di Jesi Verdicchio Riserva DOCG Classico - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3747,Misco 2018 - Verdicchio dei Castelli di Jesi DOC Classico Superiore - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3748,Libenter 2017 - Rosso Piceno DOC - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3749,"Libenter 2017 Magnum 1,5L - Rosso Piceno DOC - Tenuta di Tavignano",96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3752,"Misco 2018 Magnum 1,5L - Verdicchio dei Castelli di Jesi Doc Cl. Sup - Tenuta di Tavignano",96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3753,Cervidoni 2017 - Rosso Piceno DOC - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3754,"Misco Riserva 2016 Magnum 1,5L - Castelli di Jesi Verdicchio DOCG Classico - Tenuta di Tavignano",96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3755,Villa Torre 2018 - Verdicchio dei Castelli di Jesi DOC Classico Superiore - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3756,La Vergine 2016 - Marche IGP Bianco - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3757,Pecorino 2018 - Offida DOCG Pecorino - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3758,Barbarossa 2018 - Lacrima di Morro d'Alba DOC - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+3761,Siyr 2015 - Isola dei Nuraghi IGT - Pala ,16,Pala,13,Pala,1
+3762,Silenzi Rosso 2017 - IGT Nuraghi Rosso - Pala,16,Pala,13,Pala,1
+3763,Silenzi Rosso 2018 - IGT Nuraghi Rosso - Pala ,16,Pala,13,Pala,1
+3764,"Assoluto Passito 2014 0,375l - Isola dei Nuraghi IGT -Pala",16,Pala,13,Pala,1
+3765,Nuragus I Fiori 2018 - Nuragus di Cagliari DOC - Pala,16,Pala,13,Pala,1
+3766,Monica I Fiori 2017 - Monica di Sardegna DOC - Pala,16,Pala,13,Pala,1
+3767,Thesys 2015 - Isola dei Nuraghi IGT - Pala,16,Pala,13,Pala,1
+3768,Chiaro di Stelle Rosè 2018 - Isola dei Nuraghi IGT - Pala,16,Pala,13,Pala,1
+3769,Monica I Fiori 2018  - Monica di Sardegna DOC - Pala,16,Pala,13,Pala,1
+3770,"S'Arai 2015 Magnum 1,5L- Isola dei Nuraghi IGT - Pala",16,Pala,13,Pala,1
+3771,Cannonau Riserva 2015 - Cannonau di Sardegna DOC Riserva - Pala,16,Pala,13,Pala,1
+3772,S'Arai 2015 Magnum 3L - Isola dei Nuraghi IGT - Pala,16,Pala,13,Pala,1
+3776,Silenzi Bianco 2018 - Isola dei Nuraghi IGT - Pala,16,Pala,13,Pala,1
+3777,Cannonau I Fiori 2018 - Cannonau di Sardegna DOC - Pala,16,Pala,13,Pala,1
+3780,"Cannonau I Fiori 2017 Magnum 1,5 L - Cannonau di Sardegna Doc - Pala",16,Pala,13,Pala,1
+3781,Stellato Nature 2017 - Isola dei Nuraghi IGT - Pala,16,Pala,13,Pala,1
+3782,"Cannonau I Fiori 2018 Magnum 1,5 L - Cannonau di Sardegna Doc - Pala",16,Pala,13,Pala,1
+3784,"Cannonau I Fiori 2017 Magnum 1,5 L Astuccio - Cannonau di Sardegna Doc - Pala",16,Pala,13,Pala,1
+3785,"Cannonau I Fiori 2018 Magnum 1,5 L Astuccio - Cannonau di Sardegna Doc - Pala ",16,Pala,13,Pala,1
+3788,"Refosso Brut 2018 Magnum 1,5L - Prosecco Sup. DOCG - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3789,Refosso Brut 2018 Magnum 3L- Conegliano Valdobbiadene Prosecco Sup. DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3790,"Mòlin Extra Dry 2018 Magnum 1,5L - Conegliano Valdobbiadene Prosecco Sup. DOCG - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3791,"Tre Venti Brut 2017 Magnum 1,5L - Conegliano Valdobbiadene Prosecco Sup. DOCG - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3792,"Tre Venti Brut 2017 Magnum 3L - Conegliano Valdobbiadene Prosecco Sup. DOCG ""Rive"" - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3793,"Porta Monticano DOC Extra Dry Magnum 1,5 L -  Prosecco DOC Treviso - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3794,"Tre Venti Brut 2017 Magnum 6L - Conegliano Valdobbiadene Prosecco Sup. DOCG ""le Rive"" - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3795,Tre Venti Brut 2017 Magnum 9L - Conegliano Valdobbiadene Prosecco Sup. DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3796,"Le Viti di San Mor 2016 Magnum 1,5 L - Conegliano Valdobbiadene Prosecco Superiore DOCG - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3797,"Cartizze Superiore 2018 Magnum 1,5L - Valdobbiadene Superiore di Cartizze DOCG - Zardetto",0,,84,Zardetto Spumanti,1
+3798,Le Viti di San Mor 2016 Pas Dosè Magnum 3 L - Conegliano Valdobbiadene Prosecco Sup. DOCG - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3799,"Porta Monticano Millesimato 2018 Magnum 1,5 L - Vino Spumante Brut - Zardetto",84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3800,Prosecco DOC Frizzante Tappo a Vite - Prosecco DOC Treviso - Zardetto,84,Zardetto Spumanti,84,Zardetto Spumanti,1
+3806, Rosè Spumante 2017 - Villa giada,24,Villa Giada,25,Villa Giada,1
+3808,Surì Bianco 2018 - Piemonte Sauvignon Cortese DOP - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+3809,Moscato d'Asti Surì 2018 - Moscato d'Asti DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+3810,Manè 2018 - Piemonte Chardonnay Cortese DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+3824,Colore Bio 2015 - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3825,Bollamatta Bio - Rosato Spumante Metodo Charmat Brut - Bibi Graetz ,37,Bibi Graetz,37,Bibi Graetz,1
+3827,Casamatta Bianco 2018 - IGT Toscana Bianco - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3829,Bugia 2016 - IGT Toscana Bianco - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3832,Casamatta Rosso Bio 2018 - IGT Toscana Rosso - Bibi Graetz ,37,Bibi Graetz,37,Bibi Graetz,1
+3836,It's a Game 2016 - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3837,"Testamatta Rosso 2015 Magnum 1,5 L - IGT Toscana Rosso - Bibi Graetz",37,Bibi Graetz,37,Bibi Graetz,1
+3838,Le Cicale di Vincigliata 2017 - Chianti DOCG - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3839,Testamatta Rosso 2015 Doppia Magnum 3  L - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3840,Casamatta Rosè 2018 - IGT Toscana Rosato - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3841,Testamatta Rosso 2015 Magnum 6 L - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3842,Testamatta Rosso 2015 Magnum 15 L - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+3850,Diecianni 2016 - Salice Salentino DOC Rosso - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3851,Nero di Velluto 2013 - Negroamaro Salento IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3852,Diecianni Negroamaro 2016 - Salento IGT Rosso - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3853,"Nero di Velluto 2013 Magnum 1,5 L - Negroamaro Salento IGT - Feudi di Guagnano",28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3859,"Diecianni Salice Salentino 2015 Magnum 1,5L - Salice Salentino DOC - Feudi di Guagnano",28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3862,Terramare Negroamaro 2018 - Salento IGT Rosso - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3863,Terramare Primitivo 2017 - Salento IGT Rosso - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3865,Vegamaro Vegan 2017 - Salento Negroamaro IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3866,Terramare Rosato 2018 - Negroamaro Rosè Salento IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3867,Animè - Frizzante Bianco IGT Salento - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+3869,"Sassella Riserva 2015 Magnum 1,5L - Valtellina Superiore DOCG - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+3889,"Sfursat di Valtellina 2015 Magnum 1,5L - Sfursat di Valtellina DOCG - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+3890,Navlè 2012 - Monferrato Rosso DOC Superiore - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+3902,Franchetti 2017 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+3903,Tenuta di Trinoro 2007 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3904,"Franchetti 2017 Magnum 1,5 L - Terre Siciliane IGT - Tenuta di Trinoro",73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+3905,"Tenuta di Trinoro 2007 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3907,Tenuta di Trinoro 2008 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3910,"Tenuta di Trinoro 2008 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3912,"Tenuta di Trinoro 2010 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3914,Tenuta di Trinoro 2012 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3916,Contrada C 2017 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+3917,"Tenuta di Trinoro 1998 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",96,Tenuta di Tavignano,73,Tenuta di Trinoro,1
+3919,"Tenuta di Trinoro 1999 Mangnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3921,Tenuta di Trinoro 2014 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3923,Tenuta di Trinoro 2015 - IGT Toscana Rosso - Tenuta di Trinoro,96,Tenuta di Tavignano,73,Tenuta di Trinoro,1
+3925,"Tenuta di Trinoro 2015 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3928,Tenuta di Trinoro 2015 Magnum 3L - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3931,"Tenuta di Trinoro 2017 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3932,Tenuta di Trinoro 2017 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3934,Tenuta di Trinoro 2017 Mangum 3L - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3935,Palazzi 2011 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3936,Palazzi 2014 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3937,Palazzi 2015 - IGT Toscana Rosso - Tenuta di Trinoro,96,Tenuta di Tavignano,73,Tenuta di Trinoro,1
+3938,"Palazzi 2015 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3939,"Palazzi 1998 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3941,Le Cupole 2017 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3943,"Le Cupole 2017 Magnum 1,5L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3944,Le Cupole 2017 Magnum 3L - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3945,Le Cupole 2017 Magnum 6L - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3947,Le Cupole 2017 Magnum 18L - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3948,Campo di Magnacosta 2015 - Rosso Toscana - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3949,Campo Tenaglia 2017 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3950,Campo di Magnacosta 2013 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+3954,Merlot Riserva 2016 Siebeneich - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3955,"Merlot Riserva 2016 Siebeneich Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3959,Pinot Nero Riserva 2016 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3960,"Pinot Nero Riserva 2016 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3966,Lagrein Merlot Mauritius Riserva 2016 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3967,"Lagrein Merlot Mauritius Riserva 2016 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3976,Cabernet 2016 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+3990,Moscato Giallo 2018 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4001,Silvaner Valle Isarco 2018 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4002,Campo di Camagi 2017 - IGT Toscana Rosso - Tenuta di Trionoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4003,Campo di Magnacosta 2017 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4004,Campo di Magnacosta 2016 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4005,Campo di Magnacosta 2015 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4006,Palazzi 2017 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4007,"Palazzi 2016 Magnum 1,5 L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4008,"Palazzi 2017 Magnum 1,5 L - IGT Toscana Rosso - Tenuta di Trinoro",73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4009,Palazzi 2016 - IGT Toscana Rosso - Tenuta di Trinoro,73,Tenuta di Trinoro,73,Tenuta di Trinoro,1
+4010,Il Protesto 2016 - Vino Frizzante - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4011,L'Autentica 2016 - Basilicata IGT Bianco Dolce - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4012,La Parcella 2016 - Basilicata IGT bianco - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4013,La Firma 2014 - Aglianico del Vulture DOC Rosso - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4014,"La Firma 2009 Magnum 1,5 L - Aglianico del Vulture DOC Rosso - Cantine del Notaio",38,Cantine del Notaio,38,Cantine del Notaio,1
+4015,La Raccolta 2017 - Basilicata IGT Bianco - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4016,La Firma 2010 Magnum 3 L - Aglianico del Vulture DOC Rosso - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4017,La Stipula 2013 - Spumante Rosè Metodo Classico - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4018,La Scrittura 2017 - Basilicata IGT Rosato - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4019,Il Passaggio - Vino Spumante Brut - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4020,Il Lascito - Aglianico del Vulture Rosso DOC - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4023,Il Rogito 2017 - Basilicata IGT Rosato - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4024,La Postilla - Spumante Aromatico Moscato Dolce - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4025,Il Sigillo 2012 - Aglianico del Vulture DOC Rosso - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4027,"L'Atto 2015 Magnum 1,5 L - Basilicata IGT Rosso - Cantine del Notaio",38,Cantine del Notaio,38,Cantine del Notaio,1
+4031,"Montefalco Sagrantino 2014 Magnum 1,5L DOCG Bio - Antonelli San Marco",35,Antonelli San Marco,35,Antonelli San Marco,1
+4035,Baiocco 2018 - Umbria IGT Bio - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4037,Montefalco Rosso DOC Bio 2016 Magnum 3 L - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4038,"Montefalco Rosso DOC Bio 2015 Magnum 1,5 L - Antonelli San Marco",35,Antonelli San Marco,35,Antonelli San Marco,1
+4039,Chiusa di Pannone 2012 - Montefalco Sagrantino DOCG - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4040,"Chiusa di Pannone 2011 Magnum 1,5 L - Montefalco Sagrantino DOCG - Antonelli San Marco",35,Antonelli San Marco,35,Antonelli San Marco,1
+4045,Barbera d'Alba 2017 Superiore Etichetta Rossa DOC - Parusso,17,Parusso,6,Parusso,1
+4046,Dolcetto d'Alba Piani Noce DOC 2018 - Parusso,17,Parusso,6,Parusso,1
+4047,"Barbera d'Alba 2017 Magnum 1,5L Superiore Etichetta Rossa DOC - Parusso",17,Parusso,6,Parusso,1
+4049,Barbera d'Alba 2016 Superiore Magnum 3L Etichetta Rossa DOC - Parusso,17,Parusso,6,Parusso,1
+4051,Barbera d'Alba 2016 Superiore Magnum 9L Etichetta Rossa DOC - Parusso,17,Parusso,6,Parusso,1
+4052,Langhe DOC Nebbiolo 2017 Magnum 3 L - Parusso,17,Parusso,6,Parusso,1
+4056,Langhe DOC Nebbiolo 2016 Magnum 15 L - Parusso,17,Parusso,6,Parusso,1
+4057,Barolo Bussia 2015 Etichetta Nera Magnum 3L - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4063,"Barolo Bussia 2012 Etichetta Nera Magnum 1,5L - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4064,Barolo Bussia 2012 Etichetta Nera Magnum 3L - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4065,Barolo Bussia 2012 Etichetta Nera Magnum 5L - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4066,Barolo Bussia 2015 Etichetta Nera Magnum 5L - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4067,Barolo Etichetta Blu 2014 - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4068,Barolo Bussia Riserva 2006 Etichetta Oro - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4069,"Barolo Etichetta Blu 2014 Magnum 1,5 L - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4070,"Barolo Bussia Riserva 2006 Magnum 1,5L Etichetta Oro - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4071,Barolo Etichetta Blu 2014 Magnum 3 L - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4072,Barolo Bussia Riserva 2006 Magnum 3L Etichetta Oro - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4073,Barolo Bussia Riserva 2006 Magnum 5L Etichetta Oro - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4075,Barolo Bussia Riserva 2009 Etichetta Oro - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4076,"Barolo Bussia Riserva 2009 Magnum 1,5L Etichetta Oro - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4079,Sauvignon Rovella 2017 - Langhe DOC - Parusso,17,Parusso,6,Parusso,1
+4085,Nerosanlorè 2015 - DOC Sicilia Rosso - Gulfi ,41,Gulfi,42,Gulfi,1
+4086,Carjcanti 2016 - DOC Sicilia Carricante - Gulfi,41,Gulfi,42,Gulfi,1
+4087,"Nerosanlorè 2015 Magnum 1,5 L - DOC Sicilia Rosso - Gulfi ",41,Gulfi,42,Gulfi,1
+4088,"Carjcanti 2016 Magnum 1,5L - DOC Sicilia Carricante - Gulfi",41,Gulfi,42,Gulfi,1
+4089,Nerosanlorè 2015 Magnum 3 L - DOC Sicilia Rosso - Gulfi ,41,Gulfi,42,Gulfi,1
+4090,Nerosanlorè 2015 Magnum 6 L - DOC Sicilia Rosso - Gulfi ,41,Gulfi,42,Gulfi,1
+4091,Rosà  2018 - DOC Sicilia Rosato - Gulfi ,41,Gulfi,42,Gulfi,1
+4092,Pinò 2013 - IGT Terre Siciliane Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4093,Cerasuolo di Vittoria DOCG 2017 - Gulfi,41,Gulfi,42,Gulfi,1
+4094,Reseca 2014 - DOC Etna Rosso - Gulfi ,41,Gulfi,42,Gulfi,1
+4095,Cerasuolo di Vittoria 2017 Classico DOCG - Gulfi,41,Gulfi,42,Gulfi,1
+4096,"Reseca 2014 Magnum 1,5 L - DOC Etna Rosso - Gulfi ",41,Gulfi,42,Gulfi,1
+4097,Rossojbleo 2018 - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4099,Nerobaronj 2015 - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4101,Valcanzjria 2018 - DOC Sicilia Chardonnay Carricante - Gulfi,41,Gulfi,42,Gulfi,1
+4102,"Nerobaronj 2015 Magnum 1,5L - DOC Sicilia Rosso - Gulfi",41,Gulfi,42,Gulfi,1
+4103,Nerobaronj 2015 Magnum 3L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4104,Nerobaronj 2015 Magnum 6L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4105,Nerobufaleffj 2015 - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4106,"Nerobufaleffj 2015 Magnum 1,5L - DOC Sicilia Rosso - Gulfi",41,Gulfi,42,Gulfi,1
+4107,Neromaccarj 2015 - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4108,Nerobufaleffj 2015 Magnum 3L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4109,Nerobufaleffj 2015 Magnum 6L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4110,"Nerojbleo 2016 Magnum 1,5 L - DOC Sicilia Rosso - Gulfi",41,Gulfi,42,Gulfi,1
+4111,"Neromaccarj 2015 Magnum 1,5 L - DOC Sicilia Rosso - Gulfi",41,Gulfi,42,Gulfi,1
+4112,Nerojbleo 2016 - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4113,Neromaccarj 2015 Magnum 3 L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4114,Nerojbleo 2016 Magnum 3L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4115,Neromaccarj 2015 Magnum 6 L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4116,Nerojbleo 2016 Magnum 6L - DOC Sicilia Rosso - Gulfi,41,Gulfi,42,Gulfi,1
+4117,Dedicato 2016 - Nizza DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4118,"Dedicato 2016 - Magnum 1,5 L - Nizza DOP - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4119,Dedicato 2016 - Magnum 3 L - Nizza DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4120,Dedicato 2016 - Magnum 5 L - Nizza DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4122,"Dani 2016 Magnum 1,5 L - Nizza DOP - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4123,Dani 2016 Magnum 3 L - Nizza DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4124,Dani 2016 Magnum 5 L - Nizza DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4126,Quercia 2016 - Barbera D'Asti Superiore - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4127,"Quercia 2016 Magnum 1,5 L - Barbera D'Asti Superiore - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4128,Quercia 2016 Magnum 3 L - Barbera D'Asti Superiore - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4129,Ajan 2016 - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4130,"Ajan 2016 Magnum 1,5 L - Barbera d'Asti - Villa Giada ",0,,25,Villa Giada,1
+4131,Ajan 2016 Magnum 3 L - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4134,"Surì Rosso 2016 Magnum 1,5 L - Barbera d'Asti - Villa Giada ",24,Villa Giada,25,Villa Giada,1
+4135,"Surì Rosso 2017 Magnum 1,5 L - Barbera d'Asti - Villa Giada ",24,Villa Giada,25,Villa Giada,1
+4136,Surì Rosso 2016 Magnum 3 L - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4137,Surì Rosso 2017 Magnum 3 L - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4138,Surì Rosso 2016 Magnum 5 L - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4139,Surì Rosso 2017 Magnum 5 L - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4140,Sanpietro 2017 - Monferrato Dolcetto DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4141,Gamba di Pernice 2016 - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4142,Treponti 2014 - Monferrato rosso DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4143,"Treponti 2014 Magnum 1,5 L - Monferrato rosso DOP - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4144,Treponti 2014 Magnum 3 L - Monferrato rosso DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4145,Treponti 2014 Magnum 5 L - Monferrato rosso DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4146,Novenove 2017 - Monferrato Rosso DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4147,"Novenove 2017 Magnum 1,5 L - Monferrato Rosso DOP - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4148,Novenove 2017 Magnum 3 L - Monferrato Rosso DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4150,"Moscato Canelli 2018 0,375 L - Moscato d'Asti - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4151,Moscato Canelli 2018 - Moscato d'Asti - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4152,"Moscato Canelli 2018 Magnum 1,5 L- Moscato d'Asti - Villa Giada",24,Villa Giada,25,Villa Giada,1
+4164,Vento 2017 - IGT Campania Greco - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4165,Vento 2016 - IGT Campania Greco - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4171,Talento 2012 - Sannio Aglianico DOC - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4173,Sauvignon 2018 - DOC Friuli Colli Orientali - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4174,Friulano 2018 -  DOC Friuli Colli Orientali - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4175,Ribolla Gialla 2018 - DOC Friuli Colli Orientali - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4176,Richenza 2017 - IGT Venezia Giulia - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4177,"Picolit 2016 0,375 L - DOCG Friuli Colli Orientali - Vigna Petrussa",39,Vigna Petrussa,39,Vigna Petrussa,1
+4178,"Desiderio 2018 0,5 L - IGT Venezia Giulia - Vigna Petrussa",39,Vigna Petrussa,39,Vigna Petrussa,1
+4179,Cabernet Franc 2016 - DOC Friuli Colli Orientali - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4180,"Cabernet Franc 2016 Magnum 1,5 L - DOC Friuli Colli Orientali - Vigna Petrussa",39,Vigna Petrussa,39,Vigna Petrussa,1
+4182,"Refosco dal peduncolo rosso 2016 Magnum 1,5 L - IGT Venezia e Giulia - Vigna Petrussa",39,Vigna Petrussa,39,Vigna Petrussa,1
+4183,Schioppettino di Prepotto 2016 - DOC Friuli Colli Orientali - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4184,"Schioppettino di Prepotto 2016 Magnum 1,5 L - DOC Friuli Colli Orientali - Vigna Petrussa",39,Vigna Petrussa,39,Vigna Petrussa,1
+4185,Rinera 2017 - IGT Venezia e Giulia - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4188,Suasì Bianco 2018 - Langhe Bianco DOC - Deltetto,27,Deltetto,26,Deltetto,1
+4189,Barolo Parussi 2013 - Barolo DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4190,"Barolo Parussi 2013 Magnum 1,5 L - Barolo DOCG - Deltetto",27,Deltetto,26,Deltetto,1
+4191,"Bric Du Liun 2015 0,375 L - Vino Passito - Deltetto",27,Deltetto,26,Deltetto,1
+4194,Spumante Rosè - Spumante Metodo Classico V.Q.S. - Deltetto,27,Deltetto,26,Deltetto,1
+4200,Extra Brut 2013 - Spumante Metodo Classico - Deltetto,27,Deltetto,26,Deltetto,1
+4202,"Extra Brut 2013 Magnum 1,5 L - Spumante Metodo Classico - Deltetto",27,Deltetto,26,Deltetto,1
+4203,Extra Brut 2013 Doppia Magnum 3 L - Spumante Metodo Classico - Deltetto,27,Deltetto,26,Deltetto,1
+4205,Extra Brut 2013 Magnum 6 L - Spumante Metodo Classico - Deltetto,27,Deltetto,26,Deltetto,1
+4207,Extra Brut 2013 Magnum 9 L - Spumante Metodo Classico - Deltetto,27,Deltetto,26,Deltetto,1
+4208,"Roero Riserva Braja 2015 Magnum 1,5L - Roero DOCG - Deltetto",27,Deltetto,26,Deltetto,1
+4214,"Daivej 2018 Magnum 1,5 L - Roero Arneis DOCG - Deltetto ",27,Deltetto,26,Deltetto,1
+4220,Roero Riserva Braja 2013 - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4221,"Roero Riserva Braja 2013 Magnum 1,5L - Roero DOCG - Deltetto",27,Deltetto,26,Deltetto,1
+4222,Roero Riserva Braja 2012 - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4223,"Bramè 2017 Magnum 1,5 L - Barbera d'Alba Superiore DOC - Deltetto",27,Deltetto,26,Deltetto,1
+4224,Roero Riserva Braja 2011 - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4225,Bramè 2017 Doppia Magnum 3 L- Barbera d'Alba Superiore DOC - Deltetto,27,Deltetto,26,Deltetto,1
+4227,San Michele 2017 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4229,"San Michele 2017 Magnum 1,5L - Roero Arneis DOCG - Deltetto",27,Deltetto,26,Deltetto,1
+4231,San Michele 2016 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4232,"San Michele 2016 Magnum 1,5L - Roero Arneis DOCG - Deltetto",27,Deltetto,26,Deltetto,1
+4233,San Michele 2015 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4234,San Michele 2014 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4235,San Michele 2012 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4237,Rocca Delle Marasche 2016 - Barbera d'Alba DOC Superiore - Deltetto,27,Deltetto,26,Deltetto,1
+4238,San Michele 2011 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4241,"Rocca Delle Marasche 2016 Magnum 1,5 L - Barbera d'Alba DOC Superiore -  Deltetto",27,Deltetto,26,Deltetto,1
+4243,Rocca Delle Marasche 2016 Doppia Magnum 3 L - Barbera d'Alba DOC Superiore -  Deltetto,27,Deltetto,26,Deltetto,1
+4245,Pinot Nero Bio 777 2017 - Langhe DOC - Deltetto,27,Deltetto,26,Deltetto,1
+4246,"Pinot Nero Bio 777 2017 Magnum 1,5L - Langhe DOC - Deltetto",27,Deltetto,26,Deltetto,1
+4247,"Spumante Rosè Magnum 1,5L - Spumante Metodo Classico V.Q.S. - Deltetto",27,Deltetto,26,Deltetto,1
+4248,Spumante Rosè Doppia Magnum 3L - Spumante Metodo Classico V.Q.S. - Deltetto,27,Deltetto,26,Deltetto,1
+4250,Annalidia 2018 - Moscato d'Asti DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4251,L'Ottava Isola 2016 - Etna Rosso DOC - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4257,Bianco Porticello 2017 - IGT Terre Siciliane Bianco - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4258,Nero Ossidiana 2016 - IGT Terre Siciliane Rosso - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4260,Franciacorta Extra Brut DOCG 2013 - Ferghettina,48,Ferghettina,47,Ferghettina,1
+4261,"Franciacorta Brut DOCG Magnum 1,5 L - Ferghettina",48,Ferghettina,47,Ferghettina,1
+4262,Franciacorta Brut DOCG Doppia Magnum 3 L - Ferghettina,48,Ferghettina,47,Ferghettina,1
+4263,Franciacorta Saten Brut DOCG 2015 - Ferghettina,48,Ferghettina,47,Ferghettina,1
+4264,Franciacorta Brut DOCG Magnum 6 L - Ferghettina,48,Ferghettina,47,Ferghettina,1
+4265,Franciacorta Brut DOCG Magnum 9 L - Ferghettina,48,Ferghettina,47,Ferghettina,1
+4267,"Franciacorta Saten Brut Magnum 1,5L DOCG 2015  - Ferghettina",48,Ferghettina,47,Ferghettina,1
+4269,Franciacorta Rosè Brut DOCG 2015 - Ferghettina,48,Ferghettina,47,Ferghettina,1
+4270,Curtefranca Rosso DOC 2017 - Ferghettina ,48,Ferghettina,47,Ferghettina,1
+4271,"Franciacorta Rosè Brut Magnum 1,5L DOCG 2015 - Ferghettina",48,Ferghettina,47,Ferghettina,1
+4272,Curtefranca Bianco DOC 2018 - Ferghettina ,48,Ferghettina,47,Ferghettina,1
+4273,"Milledì 2014 Magnum 1,5L Astuccio - Franciacorta Brut Docg millesimato - Ferghettina",48,Ferghettina,47,Ferghettina,1
+4274,"Milledì 2015 Magnum 1,5L Astuccio - Franciacorta Brut Docg millesimato - Ferghettina",48,Ferghettina,47,Ferghettina,1
+4280,Tavignano Classic,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+4281,Tavignano Super,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+4283,Selva 2018 - Lugana DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4285,"Selva 2018 Magnum 1,5 L - Lugana DOC - Selva Capuzza",97,Selva Capuzza,115,Selva Capuzza,1
+4287,"Selva 2013 Magnum 1,5 L - Lugana DOC - Selva Capuzza",97,Selva Capuzza,115,Selva Capuzza,1
+4288,Groppello San Biagio 2017 - Garda DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4290,Rosso Superiore Madèr 2013 - Garda DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4291,"Rosso Superiore Madèr 2013 Magnum 1,5 L - Garda DOC - Selva Capuzza",97,Selva Capuzza,115,Selva Capuzza,1
+4292,Lume Passito - Benaco Bresciano IGT - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4293,Menasasso Riserva 2015 - Lugana DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4295,"Menasasso Riserva 2013 Magnum 1,5L - Lugana DOC - Selva Capuzza",97,Selva Capuzza,115,Selva Capuzza,1
+4296,Rosso Dunant 2016 - Garda Classico DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4297,Campo del Soglio 2018 - San Martino della Battaglia DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4299,"Campo del Soglio 2015 Magnum 1,5 L - San Martino della Battaglia DOC - Selva Capuzza",97,Selva Capuzza,115,Selva Capuzza,1
+4300,San Donino 2018 - Chiaretto Garda Classico DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4302,Moscato Rosa Rosis 2018 - Südtirol Alto Adige DOC - Cantina di Bolzano,0,,62,Cantina di Bolzano,1
+4305,Cabernet  Graf Huyn Riserva 2016 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4306,Moscato Giallo VINALIA 2017 - Südtirol Alto Adige DOC - Cantina di Bolzano,0,,62,Cantina di Bolzano,1
+4311,"RosaMati 2018 Magnum 1,5L- IGT Rosato - Fattoria Le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4314,"Poggio Valente 2016 Magnum 1,5L - IGT Toscana Rosso - Fattoria Le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4317,Passo 2016 - Recioto di Soave DOCG - Canoso Vini,82,Canoso Vini,82,Canoso Vini,1
+4318,"Morellino di Scansano Riserva DOCG 2015 Magnum 1,5 L - Fattoria le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4324,"Morellino di Scansano DOCG 2016 Magnum 1,5 L - Fattoria le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4325,Verso 2017 - Soave Superiore DOCG Classico - Canoso Vini,82,Canoso Vini,82,Canoso Vini,1
+4330,Corona Majore Riserva 2012 - Cannonau di Sardegna DOC - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4331,"Corona Majore Riserva 2011 Magnum 1,5L - Cannonau di Sardegna DOC - Tenute Soletta",22,Tenute Soletta,4,Tenute Soletta,1
+4332,Corona Majore Riserva 2011 Doppia Magnum 3L - Cannonau di Sardegna DOC - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4333,Corona Majore Riserva 2011 Magnum 6L - Cannonau di Sardegna DOC - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4335,Keramos Riserva 2011 - IGT Isola dei Nuraghi Rosso - Tenute Soletta ,22,Tenute Soletta,4,Tenute Soletta,1
+4336,"Keramos Riserva 2009 Magnum 1,5L - IGT Isola dei Nuraghi Rosso - Tenute Soletta ",22,Tenute Soletta,4,Tenute Soletta,1
+4337,Keramos Riserva 2010 Doppia Magnum 3L - IGT Isola dei Nuraghi Rosso - Tenute Soletta ,22,Tenute Soletta,4,Tenute Soletta,1
+4338,Keramos Riserva 2010 Magnum 6L - IGT Isola dei Nuraghi Rosso - Tenute Soletta ,22,Tenute Soletta,4,Tenute Soletta,1
+4339,Amarone della Valpolicella DOCG 2013 - Gran Lombardo - Bonfanti  Vini ,44,Bonfanti,43,Bonfanti Vini,1
+4340,Amarone della Valpolicella DOCG 2015 - Gran Lombardo - Bonfanti  Vini ,44,Bonfanti,43,Bonfanti Vini,1
+4341,"Amarone della Valpolicella DOCG 2013 Magnum 1,5 L - Gran Lombardo - Bonfanti  Vini ",44,Bonfanti,43,Bonfanti Vini,1
+4342,Amarone della Valpolicella Riserva DOCG 2011 - Gran Lombardo - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4343,Valpolicella DOC Superiore 2017 - Gran Lombardo - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4344,Fior d'Arancio DOCG - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4346,Venetica Rosso 2016 - Verona IGT - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4347,Venetica Bianco 2018 - Gran Lombardo - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4349,"Veneroso 2015 Magnum 1,5L - Rosso DOC Terre di Pisa Bio - Tenuta di Ghizzano",21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4350,Veneroso 2015 Doppia Magnum 3L - Rosso DOC Terre di Pisa Bio - Tenuta di Ghizzano,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4352,Prosecco Millesimato 2017 - Brut DOC - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4353,Il Ghizzano Rosso 2017 - IGT Costa Toscana Bio - Tenuta di Ghizzano,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4354,"Il Ghizzano Rosso 2017 Magnum 1,5L - IGT Costa Toscana Bio - Tenuta di Ghizzano",21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4355,San Germano Passito 2016  - Bianco IGT Toscano - Tenuta di Ghizzano ,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4356,Le Grotte 2017 - Verona Rosso IGT - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4357,Nambrot 2016 - IGT Costa Toscana Rosso Bio - Tenuta di Ghizzano,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4358,Valpolicella Doc Bio 2018 - Gran Lombardo - Bonfanti vini,44,Bonfanti,43,Bonfanti Vini,1
+4359,"Nambrot 2016 Magnum 1,5L - IGT Costa Toscana Rosso Bio - Tenuta di Ghizzano",21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4360,Nambrot 2016 Doppia Magnum 3L - IGT Costa Toscana Rosso Bio - Tenuta di Ghizzano,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4362,Calice del Conte 2010 - IGT Toscana Rosso - Travignoli,46,Travignoli,45,Travignoli,1
+4363,Gavignano 2014 - IGT Toscana - Travignoli,46,Travignoli,45,Travignoli,1
+4364,Tegolaia Riserva 2010 - Chianti Rufina DOCG - Travignoli ,46,Travignoli,45,Travignoli,1
+4365,Terra di Rosso 2017 - IGP Campania Piedirosso - Galardi ,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4366,Terra di Lavoro 2012 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4367,"Terra di Lavoro 2012 Magnum 1,5L - IGT Roccamonfina - Galardi",50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4368,Terra di Lavoro 2013 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4369,"Terra di Lavoro 2013 Magnum 1,5L- IGT Roccamonfina - Galardi",50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4370,Terra di Lavoro 2013 Doppia Magnum 3L- IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4371,Ardì - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4372,Terra di Lavoro 2014 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4373,Dolcetto d'Alba DOC 2018 - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4374,"Terra di Lavoro 2014 Magnum 1,5L - IGT Roccamonfina - Galardi",50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4375,Terra di Lavoro 2014 Doppia Magnum 3L - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4377,Terra di Lavoro 2015 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4378,Barbera d'Alba DOC 2018 - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4379,"Terra di Lavoro 2015 Magnum 1,5L - IGT Roccamonfina - Galardi",50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4380,Langhe DOC Freisa 2018 - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4381,Terra di Lavoro 2016 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4382,Terra di Lavoro 2015 Doppia Magnum 3L - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4384,"Terra di Lavoro 2016 Magnum 1,5L - IGT Roccamonfina - Galardi",50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4385, Basaricò 2018 - Langhe DOC Sauvignon - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4386,Terra di Lavoro 2016 Doppia Magnum 3L - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4387,Terra di Lavoro 2011 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4390,Dudes - Spumante Brut Rosato - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4391,Cainassa 2018 - Langhe Nebbiolo DOC - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4394,"Basarin 2016 Magnum 1,5 L Astuccio - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4395,"Basarin 2015 Magnum 1,5 L Astuccio - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4396,"Basarin 2014 Magnum 1,5 L Astuccio - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4397,"Basarin 2013 Magnum 1,5 L Astuccio - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4398,"Basarin 2012 Magnum 1,5 L Astuccio - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4399,"Basarin 2012 Magnum 1,5 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4400,"Basarin 2013 Magnum 1,5 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4401,"Basarin 2014 Magnum 1,5 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4402,"Basarin 2016 Magnum 1,5 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4403,Basarin 2012 Doppia Magnum 3 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4404,Basarin 2013 Doppia Magnum 3 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4405,Basarin 2014 Doppia Magnum 3 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4406,Basarin 2015 Doppia Magnum 3 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4412,"Satifol 0,375 L - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4413,"Chinato 0,50 L - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4416,"Core Rosso 2015 Magnum 1,5 L - Campania IGT - Montevetrano",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4446,"Morellino di Scansano DOCG 2018 Magnum 1,5 L - Fattoria le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4448,"Morellino di Scansano Riserva DOCG 2016 Magnum 1,5 L - Fattoria le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4450,"Poggio Argentato 2018 Magnum 1,5 L - IGT Toscana Bianco - Fattoria le Pupille",76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4464,Le Pupille 2015 -  IGT Toscana Syrah - Fattoria Le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4465,San Gregorio 2018 - Rosso di Valtellina DOC - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4469,"Grumello Riserva 2013 Magnum 1,5L - Valtellina Superiore DOCG - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+4470,Terra di Lavoro 2017 - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4471,"Terra di Lavoro 2017 Magnum 1,5L - IGT Roccamonfina - Galardi",50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4472,Terra di Lavoro 2017 Doppia Magnum 3L - IGT Roccamonfina - Galardi,50,Azienda Agricola Galardi,49,Azienda Agricola Galardi,1
+4473,Rosato 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni ,18,Pisoni,5,Pisoni,1
+4475,Cabernet 2017 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4476,"Castello Ginori 2015 Magnum 1,5L -  Montescudaio DOC - Marchesi Ginori Lisci",12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4478,Chardonnay 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4479,Moscato Dolce 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4481,Moscato Secco 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4483,Nosiola 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4484,Pinot Grigio 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4485,Macchion del Lupo 2017 - Montescudaio DOC Bio - Marchesi Ginori Lisci,12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4486,"Macchion del Lupo 2016 Magnum 1,5L - Montescudaio DOC Bio - Marchesi Ginori Lisci",12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4487,San Siro Bianco 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4488,San Siro Rosso 2017 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4489,Teroldego 2017 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4490,Codecce 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4491,Maso Gobbo Rosso 2018 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4492,Pinot Nero 2016 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4494,Rebo 2016 - Vigneto delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4495,Silente delle Marne 2015 - Monferrato Bianco DOC - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+4496,Reboro 2014 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4497,Illegale 2017 - Monferrato Rosso DOC - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+4498,Sarica Rosso 2016 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4499,"Sarica Rosso 2015 Magnum 1,5L - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni",18,Pisoni,5,Pisoni,1
+4500,Mesum 2017 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4501,Vino Santo Classico DOC 2004 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4502,Vino Santo Classico DOC 2005 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4503,Roero Riserva Braja Doppia Magnum 3L - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4504,Roero Riserva Braja Magnum 5L - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4505,Roero Riserva Braja Magnum 12L - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4506,Eloquenzia 2015 - Copertino DOC Rosso - Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4507,"Eloquenzia 2015 Magnum 1,5L - Copertino DOC Rosso - Garofano Vigneti e Cantine",30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4509,"Simpotica 2014 Magnum 1,5L - Salento IGT Rosso - Garofano Vigneti e Cantine",30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4511,"Girofle 2018 Magnum 1,5L - Salento IGT Rosato- Garofano Vini",30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4512,Girofle Controcorrente 2013 - Salento IGT Rosato - Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4513,Le Braci 2011 - Salento Rosso IGT - Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4514,"Le Braci 2011 Magnum 1,5L - Salento Rosso IGT - Garofano Vigneti e Cantine",30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4515,Erminia Segalla Riserva - Metodo Classico Trento DOC - Pisoni Spumanti,80,Pisoni Spumanti,80,Pisoni Spumanti,1
+4516,Brut Classico Millesimato - Metodo Classico Trento DOC - Pisoni Spumanti,80,Pisoni Spumanti,80,Pisoni Spumanti,1
+4517,"Brut Classico Millesimato Magnum 1,5L  - Metodo Classico Trento DOC - Pisoni Spumanti",30,Severino Garofano azienda Monaci,80,Pisoni Spumanti,1
+4518,Brut Classico Millesimato Doppia Magnum 3L  - Metodo Classico Trento DOC - Pisoni Spumanti,30,Severino Garofano azienda Monaci,80,Pisoni Spumanti,1
+4519,Brut Classico Millesimato Magnum 6L  - Metodo Classico Trento DOC - Pisoni Spumanti,30,Severino Garofano azienda Monaci,80,Pisoni Spumanti,1
+4520,Brut Classico Millesimato Magnum 9L  - Metodo Classico Trento DOC - Pisoni Spumanti,30,Severino Garofano azienda Monaci,80,Pisoni Spumanti,1
+4521,Brut Nature Millesimato - Metodo Classico Trento DOC - Pisoni Spumanti,80,Pisoni Spumanti,80,Pisoni Spumanti,1
+4522,Brut Rosè - Metodo Classico Trento DOC - Pisoni Spumanti,80,Pisoni Spumanti,80,Pisoni Spumanti,1
+4524,"Pruno Riserva 2015 Magnum 1,5L - Romagna DOC Sangiovese Superiore - Drei Donà ",29,Drei Donà ,28,Drei Donà ,1
+4526,Pruno Grande Annata 2006 - Sangiovese di Romagna DOC - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4528,"Notturno 2017 Magnum 1,5L - Predappio DOC - Drei Donà ",29,Drei Donà ,28,Drei Donà ,1
+4529,Notturno 2017 Doppia Magnum 3L - Predappio DOC - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4530,Magnificat 2015 - Forlì IGT - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4531,"Magnificat 2015 Magnum 1,5L - Forlì IGT - Drei Donà ",29,Drei Donà ,28,Drei Donà ,1
+4532,Magnificat 2015 Doppia Magnum 3L - Forlì IGT - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4533,Le Vie Nuove Bianco 2018 - Romagna DOC - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4534,Le Vie Nuove Rosso 2017 - Romagna DOC - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4535,Il Tornese 2018 - Forlì IGT - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4536,"Il Tornese 2018 Magnum 1,5L - Forlì IGT - Drei Donà ",29,Drei Donà ,28,Drei Donà ,1
+4537,Il Tornese 2018 Doppia Magnum 3L - Forlì IGT - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4538,Corolla 2018 - Offida Passerina DOCG - Poderi san Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4539,Blanc De Blancs - Metodo Classico Extra Brut - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4541,Riserva Palazza 2015 - Romagna DOC Sangiovese Superiore - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4543,"Grifola 2013 Magnum 1,5L - Offida Rosso DOCG - Poderi San Lazzaro",77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4544,Grifola 2013 Doppia Magnum 3L - Offida Rosso DOCG - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4545,Grifola 2011 Doppia Magnum 3L - Offida Rosso DOCG - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4546,Grifola 2010 Doppia Magnum 3L - Offida Rosso DOCG - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4547,Grifola 2014 - Offida Rosso DOCG - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4548,"Riserva Palazza 2015 Magnum 1,5L - Romagna DOC Sangiovese Superiore - Drei Donà ",29,Drei Donà ,28,Drei Donà ,1
+4550,Graf Noir Riserva 2010 - Forlì IGT - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4551,Pistillo 2018 - Offida Pecorino DOCG - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4552,"Graf Noir Riserva 2010 Magnum 1,5L - Forlì IGT - Drei Donà ",29,Drei Donà ,28,Drei Donà ,1
+4553,"Pistillo 2016 Magnum 1,5L - Offida Pecorino DOCG - Poderi San Lazzaro",77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4554,Podere 72 2017 - Rosso Piceno Superiore DOC - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4555,"Podere 72 2017 Magnum 1,5L - Rosso Piceno Superiore DOC - Poderi San Lazzaro",77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4558,Pruno Riserva 2015 Doppia Magnum 3L - Romagna DOC Sangiovese Superiore - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4559, Bordò 2015 - Marche Rosso IGT - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4560,Renzo 2016 - Marche Bianco IGT - Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4561,Elisetta - Marche Rosato IGT - Poderi san Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4562,Gavi 2018 - Gavi DOCG del Comune di Gavi - Deltetto,27,Deltetto,26,Deltetto,1
+4563,San Michele 2018 - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4564,"San Michele 2018 Magnum 1,5L  - Roero Arneis DOCG - Deltetto",27,Deltetto,26,Deltetto,1
+4565,San Michele 2016 Doppia Magnum 3L - Roero Arneis DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4569,"I Lioni 2017 Magnum 1,5L - Nebbiolo d'Alba DOC - Deltetto ",27,Deltetto,26,Deltetto,1
+4570,Daivej 2018 Doppia Magnum 3L - Roero Arneis DOCG - Deltetto ,27,Deltetto,26,Deltetto,1
+4571,Pinot Nero Bio 777 2016 Doppia Magnum 3L - Langhe DOC - Deltetto,27,Deltetto,26,Deltetto,1
+4572,San Defendente Riserva 2017 - Roero Arneis DOCG - Deltetto ,27,Deltetto,26,Deltetto,1
+4573,"San Defendente Riserva 2017 Magnum 1,5L - Roero Arneis DOCG - Deltetto ",27,Deltetto,26,Deltetto,1
+4574,Fior d'Arancio - Colli Euganei DOCG Spumante - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4575,Godimondo 2017 - Cabernet Franc IGT Veneto - La Montecchia ,10,La Montecchia,10,La Montecchia,1
+4576,Godimondo 2018 - Cabernet Franc IGT Veneto - La Montecchia ,10,La Montecchia,10,La Montecchia,1
+4577,"Godimondo 2015 Magnum 1,5L - Cabernet Franc IGT Veneto - La Montecchia ",10,La Montecchia,10,La Montecchia,1
+4578,"Godimondo 2016 Magnum 1,5L - Cabernet Franc IGT Veneto - La Montecchia ",10,La Montecchia,10,La Montecchia,1
+4579,Reboro 2016 - Vigneti delle Dolomiti IGT Bio - Cantina Pisoni,18,Pisoni,5,Pisoni,1
+4580,"Acinidoro 2017 0,375L - Bianco IGT Veneto Passito - La Montecchia",10,La Montecchia,10,La Montecchia,1
+4581,Baòn 2015 - Rosso Veneto IGT - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4583,"Cuore di Donna Daria 0,375L - Vino Bianco - La Montecchia",10,La Montecchia,10,La Montecchia,1
+4585,"Forzatè Raboso Antica Maniera 2002 Magnum 1,5L - IGT Veneto - La Montecchia",10,La Montecchia,10,La Montecchia,1
+4586,"Forzatè Raboso Antica Maniera 2003 Magnum 1,5L - IGT Veneto - La Montecchia",0,,10,La Montecchia,1
+4588,"Irenèo 2012 Magnum 1,5L - Cabernet Sauvignon Colli Euganei DOC - La Montecchia",10,La Montecchia,10,La Montecchia,1
+4589,"Irenèo 2013 Magnum 1,5L - Cabernet Sauvignon Colli Euganei DOC - La Montecchia",10,La Montecchia,10,La Montecchia,1
+4590,Merlot 2015 - Colli Euganei DOC - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4591,Merlot 2000 - Colli Euganei DOC - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4592,Poggio al Commessario 2014 - IGT Toscana Biologico - Il Civettaio,9,Il Civettaio,17,Il Civettaio,1
+4593,Vermentino 2017 - IGT Toscana Bianco Biologico - Il Civettaio,9,Il Civettaio,17,Il Civettaio,1
+4594,Hiuls Riserva 2006 - Montecucco Sangiovese DOC Biologico - Il Civettaio,9,Il Civettaio,17,Il Civettaio,1
+4595,Hiuls 2013 - Montecucco Sangiovese DOC Biologico - Il Civettaio,9,Il Civettaio,17,Il Civettaio,1
+4596,Sangiovese 2013 - Maremma Toscana DOC Biologico - Il Civettaio,9,Il Civettaio,17,Il Civettaio,1
+4597,Merlot 2016 - Colli Euganei DOC - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4598,Merlot 1998 - Colli Euganei DOC - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4599,Pinot Bianco 2017 - Colli Euganei - La Montecchia ,10,La Montecchia,10,La Montecchia,1
+4600,Chià¹ Rosè 2017 - IGT Toscana Rosato Biologico - Il Civettaio,9,Il Civettaio,17,Il Civettaio,1
+4601,Pinot Bianco 2018 - Colli Euganei - La Montecchia ,10,La Montecchia,10,La Montecchia,1
+4602,Pià¹chebello 2017 - Bianco IGT delle Venezie - La montecchia,10,La Montecchia,10,La Montecchia,1
+4603,Pià¹chebello 2018 - Bianco IGT delle Venezie - La montecchia,10,La Montecchia,10,La Montecchia,1
+4605,Progetto Recupero 2016 - Carmenère IGT Veneto - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4609,"Villa Capodilista 2011 Magnum 1,5L - Rosso Colli Euganei DOC - La Montecchia",10,La Montecchia,10,La Montecchia,1
+4611,Schioppettino di Prepotto Riserva 2015 - DOC Friuli Colli Orientali - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4612,"Schioppettino di Prepotto Riserva Magnum 1,5L 2015 - DOC Friuli Colli Orientali - Vigna Petrussa",39,Vigna Petrussa,39,Vigna Petrussa,1
+4613,Perla Nera 2016 - IGT Venezia Giulia - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4614,Forzatè Raboso Vendemmia Tardiva 2014 - IGT Veneto - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4616,Poggio Bestiale 2015 - Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+4617,Illario 2018 - Rosato della Maremma Toscana Doc Bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+4618,Altizi 2016 - Cabernet Franc della Maremma Toscana Doc - Fattoria di Magliano ,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+4619,Simpotica 2015 - Salento IGT Rosso - Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4620,Perricone 2014 - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4621,Nerello Mascalese - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4622,Grecanico - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4623,Frappato - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4624,Celeste 2013 - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4625,Catarratto - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4626,Anima Passito - IGP Terre Siciliane Biologico - Maltese,98,Maltese,116,Maltese,1
+4627,Casevigne - Grillo DOC Sicilia - Maltese,98,Maltese,116,Maltese,1
+4629,"Occhio di Pernice 2008 0,375L - Vinsanto del Chianti DOC - Poggio Terralba",19,Poggio Terralba,22,Poggio Terralba,1
+4630,"Vinsanto 2005 0,375L - Vinsanto del Chianti DOC -  Poggio Terralba",19,Poggio Terralba,22,Poggio Terralba,1
+4631,"Rumore Bianco 2009 0,375l - Vinsanto DOC - Poggio Terralba",19,Poggio Terralba,22,Poggio Terralba,1
+4633,Hirundo Bianco - Spumante Brut Metodo Martinotti - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4634,Hirundo Garda Rosè - Riviera del Garda Classico Spumante Rosè - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4636,"Hirundo Garda Rosè Magnum 1,5L - Riviera del Garda Classico Spumante Rosè - Selva Capuzza",97,Selva Capuzza,115,Selva Capuzza,1
+4637,Bianco di Morgante 2018 - Nero d'Avola DOC Siclia - Morgante,59,Morgante,58,Morgante,1
+4638,Rosè di Morgante 2018 - Nero d'Avola DOC Siclia - Morgante,59,Morgante,58,Morgante,1
+4639,"Morgante 2017 Nero d'Avola DOC Sicilia Magnum 1,5L - Morgante",59,Morgante,58,Morgante,1
+4641,Don Antonio 2016 - Nero D'Avola DOC Sicilia - Morgante,59,Morgante,58,Morgante,1
+4642,"Don Antonio 2016 Magnum 1,5L - Nero D'Avola DOC Sicilia - Morgante",59,Morgante,58,Morgante,1
+4644,"Dianne 2012 Magnum 1,5L - IGT Toscana Rosso - Tenuta Cappellina",85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4645,Dianne 2012 Doppia Magnum 3L - IGT Toscana Rosso - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4646,Dianne 2013 - IGT Toscana Rosso - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4647,Dianne 2013 Doppia Magnum 3L - IGT Toscana Rosso - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4648,Caspiolo 2012 - IGT Toscana Rosso - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4649,Chianti Classico DOCG 2013 - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4650,Chianti Classico DOCG 2014 - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4651,Canto Dieci 2014 - Chianti Classico DOCG Gran Selezione - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4653,Torre Saracena Riserva 2012 - Salice Salentino DOC - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4654,Squinzano DOC 2013 - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4655,Salice Salentino DOC 2013 - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4656,Primitivo di Manduria DOC 2013 - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4657,Vigna del Gelso Moro Rosso 2013 - Salento IGT - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4658,Vigna del Gelso Moro Rosato - Salento IGT - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4659,Vigna del Gelso Moro Bianco - Salento IGT - Vinicola Resta,54,Vinicola Resta,53,Vinicola Resta,1
+4660,Maggiorina 2018 - Vino Rosso - Le Piane,64,Le Piane,64,Le Piane,1
+4661,"Maggiorina 2016 Magnum 1,5L - Vino Rosso - Le Piane",64,Le Piane,64,Le Piane,1
+4663,Nebbiolo 2018 - Colline Novaresi DOC - Le Piane,64,Le Piane,64,Le Piane,1
+4664,Le Piane Rosso 2017 - Colline Novaresi DOC - Le Piane,64,Le Piane,64,Le Piane,1
+4666,"Mimmo 2016 Magnum 1,5L - Vino rosso - Le Piane",64,Le Piane,64,Le Piane,1
+4667,Boca DOC 2015 - Le Piane,64,Le Piane,64,Le Piane,1
+4668,Boca DOC 2015 Doppia Magnum 3L - Le Piane,64,Le Piane,64,Le Piane,1
+4669,Boca DOC 2013 - Le Piane,64,Le Piane,64,Le Piane,1
+4670,"Boca DOC 2013 Magnum 1,5L - Le Piane",64,Le Piane,64,Le Piane,1
+4671,Boca DOC 2013 Doppia Magnum 3L - Le Piane,64,Le Piane,64,Le Piane,1
+4672,Boca DOC Plinius 2007 - Le Piane,64,Le Piane,64,Le Piane,1
+4673,"Boca DOC Plinius 2007 Magnum 1,5L - Le Piane",64,Le Piane,64,Le Piane,1
+4674,Boca DOC 2006 - Le Piane,64,Le Piane,64,Le Piane,1
+4675,Lieu dit d'Oger Les Vozèmieux 2011 - Champagne AOC - Robert Moncuit,64,Le Piane,64,Le Piane,1
+4676,Brut Le Grand Blancs - Champagne AOC - Robert Moncuit,64,Le Piane,64,Le Piane,1
+4677,Extra Brut Blanc de Blancs Grand Cru Reserve 'Perpetuelle' - Champagne AOC - Robert Moncuit,64,Le Piane,64,Le Piane,1
+4678,Rosè Brut Grand Cru 'Les Romarines' - Champagne AOC - Robert Moncuit,64,Le Piane,64,Le Piane,1
+4679,Sgorghiguelo Lambrusco del Professore - Le Piane ,64,Le Piane,64,Le Piane,1
+4681,Corpo 2012 - Amarone della Valpolicella DOCG - Canoso Vini,82,Canoso Vini,82,Canoso Vini,1
+4683,Tirreno 2015 - Maremma Toscana DOC - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4684,"Tirreno 2015 Magnum 1,5L - Maremma Toscana DOC - Tenuta Belguardo",47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4685,Tirreno 2015 Doppia Magnum 3L - Maremma Toscana DOC - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4686,Bronzone 2015 - Morellino di Scansano DOCG - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4687,"Bronzone 2015 Magnum 1,5L - Morellino di Scansano DOCG - Tenuta Belguardo",47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4688,Bronzone 2015 Doppia Magnum 3L - Morellino di Scansano DOCG - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4689,Tenuta Belguardo 2015 - Maremma Toscana IGT - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4690,"Tenuta Belguardo 2015 Magnum 1,5L - Maremma Toscana IGT - Tenuta Belguardo",47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4691,Tenuta Belguardo 2015 Doppia Magnum 3L - Maremma Toscana IGT - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4692,Belguardo Rosè 2017 - Toscana IGT - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4693,"Belguardo Rosè 2017 Magnum 1,5L - Toscana IGT - Tenuta Belguardo",47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4696,"Belguardo Vermentino 2017 Magnum 1,5L - Vermentino di Toscana IGT - Tenuta Belguardo",47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4697,Codice V 2015 - Vermentino Maremma Toscana DOC - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4698,Codice V 2016 - Vermentino Maremma Toscana DOC - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4700,Terra 2015 - Valpolicella superiore DOC - Canoso Vini,82,Canoso Vini,82,Canoso Vini,1
+4702,Zanè 2014 - Monferrato DOC Bianco - Ghio Vini,95,Ghio Vini,113,Ghio Vini,1
+4705,Pietraincatenata 2018 - Dop Cilento Fiano - Maffini,11,Maffini,11,Maffini,1
+4707,Barbera d'Alba Ornati DOC 2018 - Parusso,17,Parusso,6,Parusso,1
+4709,Montevetrano 2005 - Colli di Salerno Igt,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4710,"Montevetrano 2005 Magnum 1,5L - Colli di Salerno IGT",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4711,"Montevetrano 2016 Magnum 1,5L - Colli di Salerno IGT",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4712,Montevetrano 2016 Doppia Magnum 3L - Colli di Salerno IGT,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4713,Lacrima di Morro d'Alba Doc 2018 - Pellegrini Vini ,89,Cantina Pellegrini,89,Pellegrini Vini,1
+4714,Gricos 2017 - Aglianico del Vulture DOC Biologico - Grifalco,34,Grifalco,34,Grifalco,1
+4715,Grifalco 2017 - Aglianico del Vulture DOC Biologico - Grifalco,34,Grifalco,34,Grifalco,1
+4716,Daginestra 2015 - DOC Aglianico del Vulture Biologico - Grifalco,34,Grifalco,34,Grifalco,1
+4717,Damaschito 2015 - DOC Aglianico del Vulture Biologico - Grifalco,34,Grifalco,34,Grifalco,1
+4718,Le Braci 2013 - Salento Rosso IGT - Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4719,Sardo 2018 - Vermentino di Sardegna Doc - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4720,Chimera 2018 - Vermentino di Sardegna DOC - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4721,Sardo 2016 - Cannonau di Sardegna DOC - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4722,Corona Majore Riserva 2015 - Cannonau di Sardegna DOC - Tenute Soletta,22,Tenute Soletta,4,Tenute Soletta,1
+4724,Montevetrano 2017 - Colli di Salerno IGT,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4725,Castello Ginori 2016 - Igt Toscana Rosso - Marchesi Ginori Lisci,12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4726,Poderi Novi 2016 - IGT Costa Toscana Syrah - Marchesi Ginori Lisci,12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4728,Poggio Valente 2017 - IGT Toscana Rosso - Fattoria Le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4729,Valpolicella Ripasso DOC Superiore 2017 - Gran Lombardo - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4730,L'Atto 2018 - Basilicata IGT Rosso - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4731,Il Preliminare 2018 - Basilicata IGT Bianco - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4732,Il Repertorio 2017 - Aglianico del Vulture DOC Rosso - Cantine del Notaio,38,Cantine del Notaio,38,Cantine del Notaio,1
+4734,Sorì di Giul 2015 - Freisa d'Asti DOC Superiore - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+4735,La Canna e l'Orzo - Metodo Classico Bianco - Ghio Vini,95,Ghio Vini,113,Ghio Vini,1
+4736,S'Arai 2016,16,Pala,13,Pala,1
+4737,Vigna degli Apostoli Sassella 2013 - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4738,Cassetta Le Braci annate storiche 2010 - 2011- 2013 di Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4739,Inferno Riserva 2016 - Valtellina Superiore DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4740,"Il Mattaglio Blanc de Noirs Riserva 2011 Magnum 1,5 L - Cantina Della Volta",51,Cantina della Volta,50,Cantina della Volta,1
+4741,Zapel 2019  - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4742,Rosso Nebbiolo 2018 - Alpi Retiche IGT - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4743,"Rosso Nebbiolo 2018 Magnum 1,5 L - Alpi Retiche IGT - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+4744,Grumello 2017 - Valtellina Superiore DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4746,Sassella Riserva 2015 Magnum 3L - Valtellina Superiore DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4747,"Vigna degli Apostoli 2013 Magnum 1,5L - Sassella DOCG - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+4748,Crespino 2016 - Alpi Retiche IGT - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4750,Inferno 2017 - Valtellina Superiore DOCG - Aldo Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4751,"Inferno Riserva 2016 Magnum 1,5L - Valtellina Superiore DOCG - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+4752,Sfursat di Valtellina 2017 - Sfurstat di Valtellina DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4753,Fruttaio Cà  Rizzieri 2016 Magnum 3 L - Sfursat di Valtellina DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4754,Core Rosso GIFT BOX - Montevetrano,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4755,Virgola 2019 - IGT Costa toscana bianco bio - Marchesi Ginori Lisci,12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4756,Bacio 2019 - IGT Toscana Rosato Bio - Marchesi Ginori Lisci,12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4757,Pietro 2012 - Montecucco Rosso Doc - Podere San Giusto,99,Podere San Giusto,117,Podere San Giusto,1
+4758,Pietro 2013 - Montecucco Rosso Doc - Podere San Giusto,99,Podere San Giusto,117,Podere San Giusto,1
+4760,Pietro 2015 - Montecucco Rosso Doc - Podere San Giusto,99,Podere San Giusto,117,Podere San Giusto,1
+4761,Il Belloccio 2009 - Montecucco Rosso Riserva Doc - Podere San Giusto,99,Podere San Giusto,117,Podere San Giusto,1
+4762,Il Belloccio 2011 - Montecucco Rosso Riserva Doc - Podere San Giusto,99,Podere San Giusto,117,Podere San Giusto,1
+4763,Core Bianco GIFT BOX - Montevetrano,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4764,"Trebium 2018 Magnum 1,5 L - Trebbiano Spoletino DOC Bio - Antonelli San Marco",35,Antonelli San Marco,35,Antonelli San Marco,1
+4765,I Lioni 2018 - Nebbiolo d'Alba DOC - Deltetto ,27,Deltetto,26,Deltetto,1
+4766,VignaLina 2017 - Barbera dâ€™Asti DOCG Superiore - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+4767,Barone Bianco 2018 - Calabria IGP Biologico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+4768,Fonte 2018 - Soave Classico DOC - Canoso Vini,82,Canoso Vini,82,Canoso Vini,1
+4769,Mimmo 2017 - Vino rosso - Le Piane,64,Le Piane,64,Le Piane,1
+4770,Setecà pita 2016 -  Barbera d'Asti DOCG Superiore - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+4772,Sassella 2017 - Valtellina Superiore DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4775,Rosè San Pietro - V.S.Q. Brut Bio - Tenuta San Pietro ,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+4776,Brut San Pietro - V.S.Q. Brut Bio - Tenuta San Pietro ,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+4778,Salidoro 2018 - Monferrato Bianco DOC - Tenuta Santa Caterina,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+4779,Vignarosa 2019 - IGT Campania Rosato - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4780,Brizio 2019 - IGT Campania Aglianico - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4781, Preta 2019 - IGT Campania Falanghina - Capolino Perlingieri ,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4782, Sciascì 2015 - Sannio Sciascinoso DOC - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4783,Nembo 2019 - IGT Campania Fiano - Capolino Perlingieri,5,Capolino Perlingieri,15,Capolino Perlingieri,1
+4784,Campordigno 2017 - Montecudaio DOC Merlot Bio - Marchesi Ginori Lisci,12,Marchesi Ginori Lisci,18,Marchesi Ginori Lisci,1
+4785,Refosco dal peduncolo rosso 2017 - IGT Venezia e Giulia - Vigna Petrussa,39,Vigna Petrussa,39,Vigna Petrussa,1
+4787,Casa del Capo 2016 - IGT Toscana Rosso - Tenuta Cappellina,85,Tenuta Cappellina,85,Tenuta Cappellina,1
+4789,Le Riè Metodo Classico - VSQ Extra Brut Bio - Tenuta San Pietro,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+4790,Amore e Follia 2018 - IGT Toscana Rosso - Podere Le Ripi,86,Podere Le Ripi,86,Podere Le Ripi,1
+4791,Sogni e Follia 2016 - Rosso di Montalcino Doc - Podere Le Ripi,86,Podere Le Ripi,86,Podere Le Ripi,1
+4794,Cielo d'Ulisse 2015 - Brunello di Montalcino Docg - Podere Le Ripi,86,Podere Le Ripi,86,Podere Le Ripi,1
+4795,Amore e Magia 2015 - Brunello di Montalcino Docg - Podere Le Ripi,0,,86,Podere Le Ripi,1
+4797,Bonsai 2016 - IGT Toscana Rosso - Podere Le Ripi,86,Podere Le Ripi,86,Podere Le Ripi,1
+4798,Girofle 2019 - Salento IGT Rosato- Garofano Vini,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4800,Bianca dei Censi 2019 - Puglia IGT - Garofano Vigneti e Cantine,30,Severino Garofano azienda Monaci,29, Garofano Vigneti e Cantine,1
+4801,Diecianni Verdeca 2019 - Salento IGT - Feudi di Guagniano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4802,Diecianni Malvasia Nera 2018 - Salento IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4803,Diecianni Chardonnay 2019 - Chardonnay Salento IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4805,Diecianni Salice Salentino 2016 - Salice Salentino DOC - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4806,Diecianni Primitivo 2018 - Salento IGT Rosso - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4807,Le Camarde 2016 - Negroamaro e Primitivo Salento IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4808,Cupone 2017 - Salice Salentino DOC Negroamaro Riserva - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4809,Pietrafinita 2014 - Negroamaro Salento IGT - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4810,Polesio 2018 - Rosso Piceno DOC- Poderi San Lazzaro,77,Poderi San Lazzaro,78,Poderi San Lazzaro,1
+4811,Costa Verde 2019 - Verdicchio dei Castelli di Jesi DOC Classico - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+4812,Il Pestifero 2018 - Marche IGP Bianco Bio - Tenuta di Tavignano,96,Tenuta di Tavignano,114,Tenuta di Tavignano,1
+4813,BianCònero 2019 - Moscato Naturale - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+4814,Zero 2018 - Rosso Conero doc - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+4815,Extra Dry 2019 - Spumante - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+4816,Dorico 2016  - Conero Riserva docg - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+4817,Moroder 2017 - Rosso Conero doc - Cantine Moroder,90,Cantine Moroder,90,Cantine Moroder,1
+4818,Perenzo 2016 - Syrah Maremma Toscana Doc - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+4819,Lamole 2018 - Chianti Classico DOCG - I Fabbri,52,I Fabbri,51,I Fabbri,1
+4820,Il Doccio 2015 - Toscana IGT - I Fabbri,52,I Fabbri,51,I Fabbri,1
+4821,I Fabbri Riserva 2015 - Riserva DOCG Chianti Classico - I Fabbri,52,I Fabbri,51,I Fabbri,1
+4822,I Fabbri Black Label Gran Selezione 2015 - Chianti Classico Gran Selezione DOCG - I Fabbri,52,I Fabbri,51,I Fabbri,1
+4823,Servaj Bio 2019 - Langhe DOC Favorita - Deltetto,27,Deltetto,26,Deltetto,1
+4824,Gavi 2019 - Gavi DOCG del Comune di Gavi - Deltetto,27,Deltetto,26,Deltetto,1
+4825,Annalidia 2019 - Moscato d'Asti DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4826,Daivej 2019 - Roero Arneis DOCG - Deltetto ,27,Deltetto,26,Deltetto,1
+4827,Bramè 2018 - Barbera d'Alba Superiore DOC - Deltetto,27,Deltetto,26,Deltetto,1
+4828,Pinot Nero 777 2018 - Langhe DOC - Deltetto,27,Deltetto,26,Deltetto,1
+4829,Fruttaio Cà  Rizzieri 2017 - Sfursat di Valtellina DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4830,Gewürztraminer 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4831,Lagrein 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4832,Pauciuri Rosso 2017 - Calabria IGP - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+4833,Malvarosa 2018 - Calabria IGP Biologico - Tenute Pacelli,94,Tenute Pacelli,112,Tenute Pacelli,1
+4834,Core Rosso 2017 - Campania Igt - Montevetrano,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4835,"Core Rosso 2016 Magnum 1,5 L - Campania IGT - Montevetrano",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4836,"Core Rosso 2017 Magnum 1,5 L - Campania IGT - Montevetrano",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+4837,San Vigilio 2019 - Lugana DOC - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4838,Hirundo Metodo Classico 2017 - Lugana doc Brut - Selva Capuzza,97,Selva Capuzza,115,Selva Capuzza,1
+4840,Roero Riserva Braja 2016 - Roero DOCG - Deltetto,27,Deltetto,26,Deltetto,1
+4842,Spumante Millesimato Christian Bellei 2015 - VSQ Brut Metodo Classico - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+4843,Lambrusco Rosè di Sorbara Spumante 2015 - DOC Metodo Classico - Cantina della Volta,51,Cantina della Volta,50,Cantina della Volta,1
+4844,Castello di Fonterutoli 2018 - Chianti Classico DOCG - Mazzei,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+4845,Ser Lapo 2017 - Chianti Classico Riserva DOCG - Mazzei,47,Castello di Fonterutoli,46,Castello di Fonterutoli,1
+4846,Belguardo Vermentino 2019 - Vermentino di Toscana IGT - Tenuta Belguardo,47,Castello di Fonterutoli,69,Tenuta Belguardo,1
+4847,Amore e Follia IGT Toscana Rosso 2016,86,Podere Le Ripi,86,Podere Le Ripi,1
+4848,Langhe Nebbiolo DOC 2018 - Parusso,17,Parusso,6,Parusso,1
+4849,Barolo Etichetta Bianca DOCG 2016,17,Parusso,6,Parusso,1
+4850,Morellino di Scansano Riserva 2017 DOCG - Fattoria le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4851,Morellino di Scansano DOCG 2019 - Fattoria le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4853,Dani 2017 - Nizza DOP - Villa Giada,24,Villa Giada,25,Villa Giada,1
+4854,Rosarò 2019 - Negroamaro Rosè IGT Salento - Feudi di Guagnano,28,Feudi di Guagnano,27,Feudi di Guagnano,1
+4855,Il Ghizzano bianco 2019 - IGT Costa Toscana - Biodinamico Demeter - Tenuta di Ghizzano,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4856,Veneroso 2016 - Rosso DOC Terre di Pisa Bio - Tenuta di Ghizzano,21,Tenuta di Ghizzano,23,Tenuta di Ghizzano,1
+4859,Soffocone di Vincigliata Bio 2017 - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+4860,Schiava 2018,8,Glassierhof,12,Glassierhof,1
+4861,Sauvignon 2015,8,Glassierhof,12,Glassierhof,1
+4862,Pinot Nero 2016,8,Glassierhof,12,Glassierhof,1
+4863,Pruno Riserva 2016 - Romagna DOC Sangiovese Superiore - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4864,Notturno 2018 - Predappio DOC - Drei Donà ,29,Drei Donà ,28,Drei Donà ,1
+4866,Scopeto 2019 - IGT Toscana Bianco - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+4867,Testamatta Rosso 2016 - IGT Toscana Rosso - Bibi Graetz,37,Bibi Graetz,37,Bibi Graetz,1
+4868,Per Eva 2018 - Costa dâ€™Amalfi bianco doc - Tenuta San Francesco,40,Tenuta San Francesco,40,Tenuta San Francesco,1
+4869,E' Iss 2017,40,Tenuta San Francesco,40,Tenuta San Francesco,1
+4870,Tramonti Rosso 2017,40,Tenuta San Francesco,40,Tenuta San Francesco,1
+4871,Casole 2019 ,52,I Fabbri,51,I Fabbri,1
+4872,Riesling 2019 - Südtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4873,Valpolicella Superiore Doc Bio 2018 - Bonfanti vini,44,Bonfanti,43,Bonfanti Vini,1
+4874,Amarone della Valpolicella DOCG 2016 - Gran Lombardo - Bonfanti  Vini ,44,Bonfanti,43,Bonfanti Vini,1
+4875,Valpolicella Superiore Ripasso Doc Bio 2018 - Bonfanti Vini,44,Bonfanti,43,Bonfanti Vini,1
+4876,Sassella Riserva 2016 - Valtellina Superiore DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4877,"Fruttaio Cà  Rizzieri 2016 Magnum 1,5 L - Sfursat di Valtellina DOCG - Rainoldi",57,Rainoldi,56,Rainoldi ,1
+4881,"Barolo Etichetta Bianca DOCG 2016 Magnum 1,5 L",17,Parusso,6,Parusso,1
+4882,Lagrein Riserva TABER 2017 - Südtirol - Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4883,"Lagrein Riserva TABER 2017 Magnum 1,5 - Südtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4884,Pinot Grigio 2019 - Südtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4885,Chardonnay 2019 - Südtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4886,Pinot Bianco 2019 - Südtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4887,Gewürztraminer Kleinstein 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4888,"Gewürztraminer Kleinstein 2019 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4889,Chardonnay Kleinstein 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4890,Kerner 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4891,Sauvignon 2019 - Südtirol  Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4892,Verdicchio di Matelica DOC Bio 2019 - Bisci ,78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4893,Pinot Nero 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4894,Lagrein Perl 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4895,Lagrein Baron Eyrl 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4896,Sauvignon Mock 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4897,Gavi 2019 - Gavi DOCG Bio - Ghio Vini  ,95,Ghio Vini,113,Ghio Vini,1
+4898,Il Cantico della Figura 2017 - Verdicchio dei Castelli di Jesi Riserva Docg - Andrea Felici,66,Andrea Felici,66,Andrea Felici,1
+4899,Rosa Caolino 2019 - IGT Terre Siciliane Rosato - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4900,Terra di Lamole 2017 - Chianti Classico DOCG - I Fabbri,52,I Fabbri,51,I Fabbri,1
+4901,Olinto 2017 - Chianti Classico DOCG - I Fabbri,52,I Fabbri,51,I Fabbri,1
+4902,Surì Rosso 2018 - Barbera d'Asti - Villa Giada ,24,Villa Giada,25,Villa Giada,1
+4904,Langhe DOC Bianco 2019 - Parusso,17,Parusso,6,Parusso,1
+4905,Paruss Rosato Nebbiolo - Langhe DOC Regione Piemonte - Parusso,17,Parusso,6,Parusso,1
+4906,Parusso Metodo Classico Brut 2015 - Parusso,17,Parusso,6,Parusso,1
+4907,"Parusso Metodo Classico Brut 2015 Magnum 1,5 L - Parusso",17,Parusso,6,Parusso,1
+4908,"Sauvignon Rovella 2017 Magnum 1,5 L - Langhe DOC - Parusso",17,Parusso,6,Parusso,1
+4909,"Langhe Nebbiolo DOC 2018 Magnum 1,5 L - Parusso",17,Parusso,6,Parusso,1
+4910,Barolo Bussia Riserva 2011 Etichetta Oro - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4911,"Barolo Bussia Riserva 2011 Magnum 1,5L Etichetta Oro - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4912,Barolo Mosconi 2016 - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4913,Barolo Mariondino 2016 - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4914,"Barolo Mariondino 2016 Magnum 1,5L - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4915,Barolo Bussia 2016 Etichetta Nera - Barolo DOCG - Parusso,17,Parusso,6,Parusso,1
+4916,"Barolo Bussia 2016 Etichetta Nera Magnum 1,5L - Barolo DOCG - Parusso",17,Parusso,6,Parusso,1
+4917,"Amore e Follia IGT Toscana Rosso 2016 magnum 1,5L",86,Podere Le Ripi,86,Podere Le Ripi,1
+4919,Ghibellino 2019 - Alpi Retiche IGT - Rainoldi Vini,57,Rainoldi,56,Rainoldi ,1
+4921,Oltre 2017 - Bianco Veronese IGT - Canoso Vini,82,Canoso Vini,82,Canoso Vini,1
+4922,Passorosso 2017 - Etna DOC - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+4923,Passobianco 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+4924,Pinot Bianco Dellago 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+4925,Pagliatura 2019 - Vermentino della Maremma Toscana Doc Bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+4926,Heba 2017 -  Morellino di Scansano docg bio - Fattoria di Magliano,92,Fattoria di Magliano,110,Fattoria di Magliano,1
+4927,Poggio Argentato 2019 - IGT Toscana Bianco - Fattoria le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4928,Grumello Riserva 2015 - Valtellina Superiore DOCG - Rainoldi,57,Rainoldi,56,Rainoldi ,1
+4929,Grechetto 2019 - Colli Martani DOC Bio - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4930,Montefalco Rosso DOC Bio 2017 - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4931,Montefalco Sagrantino 2015 DOCG Bio - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4932,Rosso di Toscana IGT 2018,58,Altesino,57,Altesino,1
+4933,Brunello di Montalcino DOCG 2015,58,Altesino,57,Altesino,1
+4934,Rosso di Montalcino DOC 2018 - Altesino,58,Altesino,57,Altesino,1
+4935,Friulano 2018 - Collio DOC - Mario Schiopetto ,13,Mario Schiopetto,19,Mario Schiopetto,1
+4936,Sauvignon Collio DOC 2018,13,Mario Schiopetto,19,Mario Schiopetto,1
+4937,Ribolla Gialla 2019 - IGT Venezia Giulia - Schiopetto,13,Mario Schiopetto,19,Mario Schiopetto,1
+4938,RosaMati 2019 - IGT Rosato - Fattoria Le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4939,Villa Castiglioni 2016 - Marche Rosso IGT - Bisci,78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4940,Rosso 2017 - Marche Rosso IGT - Bisci,78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4941,Entemari 2017 - Isola dei Nuraghi IGT -Pala,16,Pala,13,Pala,1
+4942,Vermentino I Fiori 2019 - Vermentino di Sardegna DOC - Pala,16,Pala,13,Pala,1
+4943,Ypsilon 2017 - IGT Terre Siciliane Rosso - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4945,Ca' Emo 2017 - Rosso IGT delle Venezie - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4947,Donnaluna Fiano 2019 - Doc Cilento - Viticoltori De Conciliis,6,De Conciliis,9,De Conciliis,1
+4948,Donnaluna Aglianico 2017 - Igp Paestum - Viticoltori De Conciliis,6,De Conciliis,9,De Conciliis,1
+4949,Bianco Porticello 2018 - IGT Terre Siciliane Bianco - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4950,Corinto 2018 - IGT Terre Siciliane Rosso - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4951,"Corinto 2018 Magnum 1,5L (cassa legno) - IGT Terre Siciliane Rosso - Tenuta di Castellaro",71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+4952,La Zerba Timorasso 2017 - Colli Tortonesi Doc - Cantine Volpi,101,Cantine Volpi,119,Cantine Volpi,1
+4953,La Zerba Barbera Superiore 2018 - Colli Tortonesi Doc - Cantine Volpi,101,Cantine Volpi,119,Cantine Volpi,1
+4954,Spumante Cortese Brut - Piemonte Doc - Cantine Volpi,101,Cantine Volpi,119,Cantine Volpi,1
+4955,Spumante Pinot Nero Rosè Brut - Piemonte Doc - Cantine Volpi,101,Cantine Volpi,119,Cantine Volpi,1
+4956,Trebium 2019 - Trebbiano Spoletino DOC Bio - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4957,Contrario 2017 - Umbria IGT Rosso - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4958,Montefalco Rosso Riserva 2016 DOC Bio - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4959,Anteprima Tonda 2018 - Trebbiano Spoletino DOC Bio - Antonelli San Marco,35,Antonelli San Marco,35,Antonelli San Marco,1
+4960,"Montefalco Sagrantino Passito DOCG 2014 Mezza Bottiglia 0,375 L - Antonelli San Marco",35,Antonelli San Marco,35,Antonelli San Marco,1
+4961,Irenèo 2016 - Cabernet Sauvignon Colli Euganei DOC - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4962,Villa Capodilista 2013 - Rosso Colli Euganei DOC - La Montecchia,10,La Montecchia,10,La Montecchia,1
+4963,"Villa Castiglioni 2015 Magnum 1,5L- Marche Rosso IGT - Bisci",78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4964,Villa Castiglioni 2015 Doppia Magnum 3L - Marche Rosso IGT - Bisci,78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4965,"Verdicchio di Matelica DOC Bio 2019 Magnum 1,5L - Bisci ",78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4966,"Verdicchio di Matelica Vigneto Fogliano 2016 Magnum 1,5L- Verdicchio di Matelica DOC - Bisci",78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4967,Senex 2015 - Verdicchio di Matelica DOCG Riserva - Bisci,78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4968,Verdicchio di Matelica DOCG Passito 2008 mezza bottiglia - Bisci ,78,Azienda Agricola Bisci,79,Azienda Agricola Bisci,1
+4969,Pelofino 2019 - IGT Toscana Rosso - Fattoria le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4970,Basarin 2017 - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4971,Basarin Riserva 2015 - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4972,Barbera d'Alba Superiore Doc 2017 - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4973,"Cainassa 2018 Magnum 1,5L - Langhe Nebbiolo DOC - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4974,Sanadaive 2017 - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4975,"Aldo 2018 Magnum 1,5 L - Dolcetto d'Alba DOC - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4976,Maddalena 2019 - Moscato d'Asti DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4977,"Basarin Riserva 2013 Magnum 1,5L C.Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4978,"Basarin Riserva 2015 Magnum 1,5L C.Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4979,Basarin 2016 Doppia Magnum 3 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4980,"Basarin 2015 Magnum 1,5 L C. Legno - Barbaresco DOCG - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4981,Moganazzi 2011 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4982,Moganazzi 2012 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4983,Moganazzi 2013 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4984,Moganazzi 2014 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4985,Moganazzi 2017 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4986,Moganazzi 2018 - Etna Bianco Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4987,Moganazzi 2017 - Etna Bianco Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4988,Moganazzi 2016 - Etna Bianco Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4989,Moganazzi 2015 - Etna Bianco Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4990,Pignatuni 2015 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4991,Pignatuni 2014 - Etna Rosso Doc - Le Vigne di Eli,102,Le Vigne di Eli,120,Le Vigne di Eli,1
+4992,"Barbera d'Alba DOC Superiore 2018 Magnum 1,5 L - Adriano Marco e Vittorio",72,Adriano Marco e Vittorio,72,Adriano Marco e Vittorio,1
+4993,Saffredi 2017 - IGT Toscana Rosso - Fattoria Le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+4995,Bellone 2019 - IGP Lazio - SanVitis,103,San Vitis,121,SanVitis,1
+4996,Cesanese 2017 - Olevano Romano Doc - SanVitis,103,San Vitis,121,SanVitis,1
+4997,Flaminio Rosso 2019 - IGT Lazio Rosso - SanVitis,103,San Vitis,121,SanVitis,1
+4998,Passerina 2019 - IGP Lazio - SanVitis,103,San Vitis,121,SanVitis,1
+4999,Flaminio Bianco 2019 - IGP Lazio Bianco - SanVitis,103,San Vitis,121,SanVitis,1
+5000,San Pietro 2019 - Gavi docg Bio - Tenuta San Pietro ,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+5001,Nero 2018 - Monferrato Rosso Doc - Tenuta San Pietro,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+5002,Bellavita 2014 - Monferrato Rosso Doc Bio - Tenuta San Pietro ,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+5003,Monferace 2015 - Grignolino dâ€™Asti DOC - Tenuta Santa Caterina ,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
+5007,Cyane Moscato 2019 - Doc Siracusa Bianco - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5009,Pollio 2018 - Doc Siracusa Moscato - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5010,Solacium 2017- Doc Siracusa Moscato Passito - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5012,Podere 27 Metodo Classico brut 2016 - Spumante Moscato Doc Siracusa - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5015,Targetta 2019 - Doc Sicilia Bianco Catarratto - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5016,Vignazza delle Monache 2019 - Doc Sicilia Nero d'Avola Rosato - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5017,Vignazza delle Monache 2018 - Doc Sicilia Nero d'Avola Rosato - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5018,Baronessa di Canseria 2018 - Doc Sicilia Rosso Cabernet Sauvignon - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5020,Core Bianco 2019 - IGT Campania - Montevetrano ,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5021,Montevetrano 2006 - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5022,"Montevetrano 2006 Magnum 1,5L - IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5023,Montevetrano 2014 - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5024,"Montevetrano 2014 Magnum 1,5L - IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5025,Montevetrano 2014 Doppia Magnum 3L - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5026,Montevetrano 2017 Doppia Magnum 3L - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5027,"Montevetrano 2017 Magnum 1,5L - IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5028,Montevetrano 2013 - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5029,Montevetrano 2013 Doppia Magnum 3L -  IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5030,"Montevetrano 2013 Magnum 1,5L -  IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5031,Montevetrano 2009 -  IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5032,"Montevetrano 2009 Magnum 1,5L - IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5033,Montevetrano 2009 Doppia Magnum 3L - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5034,Montevetrano 2008 - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5035,"Montevetrano 2008 Magnum 1,5L -  IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5036,Montevetrano 2008 Doppia Magnum 3L - IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5037,"Montevetrano 2007 Magnum 1,5 L -  IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5038,"Montevetrano 2012 Magnum 1,5L -  IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5039,"Montevetrano 2011 Magnum 1,5L -  IGT Colli di Salerno",15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5040,Montevetrano 2011 Doppia Magnum 3L -  IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5041,Montevetrano 2012 Doppia Magnum 3L -  IGT Colli di Salerno,15,Azienda Agricola Montevetrano,21,Azienda Agricola Montevetrano,1
+5042,Is Arenas 2016 - Carignano del Sulcis Riserva Doc - Sardus Pater,20,Sardus Pater,3,Sardus Pater,1
+5043,Insula 2019 - Monica di Sardegna Doc - Sardus Pater ,20,Sardus Pater,3,Sardus Pater,1
+5044,"Alta Langa 2016 Magnum 1,5L - Spumante Brut Metodo Classico - Deltetto",27,Deltetto,26,Deltetto,1
+5045,Contrada R 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5046,Contrada C 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5047,Contrada G 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5048,Contrada P 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5049,Contrada S 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5050,Passorosso 2018 - Etna DOC - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5052,Il Mandorlo 2018 - Gavi docg bio - Tenuta San Pietro,100,Tenuta San Pietro,118,Tenuta San Pietro,1
+5053,SolAlto 2013 - IGT Toscana Bianco - Fattoria Le Pupille,76,Fattoria Le Pupille,77,Fattoria Le Pupille,1
+5054,Re Federico 2018 - Doc Sicilia Nero d'Avola - Cantine Pupillo,104,Cantine Pupillo,123,Cantine Pupillo,1
+5055,Classico Superiore 2019 - Verdicchio dei Castelli di Jesi Doc - Andrea Felici,66,Andrea Felici,66,Andrea Felici,1
+5056,Bianco Pomice 2019 - Igt Terre Siciliane - Tenuta di Castellaro,71,Tenuta di Castellaro,70,Tenuta di Castellaro,1
+5057,Barolo Docg 2016 - Villadoria,105,Villadoria,124,Villadoria,1
+5058,Barolo Riserva Docg 2011 - Villadoria,105,Villadoria,124,Villadoria,1
+5059,Sorì Paradiso 2016 - Barolo docg - Villadoria,105,Villadoria,124,Villadoria,1
+5060,Cabernet Riserva Mumelter 2017 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5061,"Cabernet Riserva Mumelter 2017 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5062,"Pinot Bianco Dellago 2019 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5063,Santa Maddalena HUCK AM BACH 2019 - Südtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5064,"Santa Maddalena HUCK AM BACH 2019 Magnum 1,5 L - Südtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5065,Lagrein Baron Eyrl 2019 Magnum 3L - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5066,"Lagrein Baron Eyrl 2019 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5067,Merlot Graf Huyn 2017 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5068,Santa Maddalena Classico 2019 - Südtirol  Alto Adige DOC - Cantina di Bolzano ,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5069,Santa Maddalena Moar Riserva 2018 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5070,"Santa Maddalena Moar Riserva 2018 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5071,Lagrein Riserva Prestige 2017 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5072,"Lagrein Riserva Prestige 2017 Magnum 1,5L - Sudtirol Alto Adige DOC - Cantina di Bolzano",62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5073,Müller Thurgau 2019 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5074,Rosè Pischl 2019 - Vigneti delle Dolomiti Rosato IGT - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5075,Merlot 2018 - Sudtirol Alto Adige DOC - Cantina di Bolzano,62,Cantina di Bolzano,62,Cantina di Bolzano,1
+5077,"Passorosso 2018 Magnum 1,5 L - Etna Rosso DOC - Tenuta di Trinoro",73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5078,"Passorosso 2017 Magnum 1,5 L - Etna Rosso DOC - Tenuta di Trinoro",73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5079,Passorosso 2017 Doppia Magnum 3 L - Etna Rosso DOC - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5080,Passorosso 2018 Doppia Magnum 3 L - Etna Rosso DOC - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5081,"Passobianco 2018 Magnum 1,5 L - Terre Siciliane IGT - Tenuta di Trinoro",73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5082,Franchetti 2018 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5083,"Franchetti 2018 Magnum 1,5L - Terre Siciliane IGT - Tenuta di Trinoro",73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5084,Franchetti 2018 Doppia Magnum 3L - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5085,Franchetti 2017 Doppia Magnum 3L - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5086,Franchetti 2015 - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5087,Franchetti 2015 Doppia Magnum 3L - Terre Siciliane IGT - Tenuta di Trinoro,73,Tenuta di Trinoro,74,Tenuta di Trinoro,1
+5088,Barolo Riserva Docg 2008 - Villadoria,105,Villadoria,124,Villadoria,1
+5089,Barolo Riserva Docg 2012 - Villadoria,105,Villadoria,124,Villadoria,1
+5090,Furèt 2019 - Dolcetto d'Alba doc - Villadoria,105,Villadoria,124,Villadoria,1
+5091,Lazzarito 2015 - Barolo docg - Villadoria,105,Villadoria,124,Villadoria,1
+5092,Serralunga d'Alba 2016 - Barolo docg - Villadoria,105,Villadoria,124,Villadoria,1
+5093,Kleos 2018 -  Dop Cilento Aglianico - Maffini,11,Maffini,11,Maffini,1
+5094,Kratos 2019 - Dop Cilento Fiano Bio - Maffini,11,Maffini,11,Maffini,1
+5095,Cenito 2018 - Dop Cilento Aglianico bio  - Maffini,11,Maffini,11,Maffini,1
+5096,Almèi 2018 - Barbera d'Alba Doc Superiore - Villadoria,105,Villadoria,124,Villadoria,1
+5097,Tardòc 2018 - Barbera d'Alba doc - Villadoria,105,Villadoria,124,Villadoria,1
+5098,Temprà  2018 - Nebbiolo d'Alba doc - Villadoria,105,Villadoria,124,Villadoria,1
+5099,Arlandino 2018 - Grignolino dâ€™Asti DOC - Tenuta Santa Caterina ,45,Tenuta Santa Caterina,44,Tenuta Santa Caterina,1
